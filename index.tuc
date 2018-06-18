@@ -103,7 +103,7 @@ utilitydata_structures_counters.collected={
   { 0 },
  },
  ["realpage"]={
-  { 2 },
+  { 3 },
  },
  ["subpage"]={
   { 0 },
@@ -112,7 +112,7 @@ utilitydata_structures_counters.collected={
   { 0 },
  },
  ["userpage"]={
-  { 2 },
+  { 3 },
  },
 }
 
@@ -267,8 +267,49 @@ utilitydata_structures_lists.collected={
    ["block"]="bodypart",
    ["internal"]=11,
    ["realpage"]=2,
-   ["reference"]="grands-awards-languages-and-living-abroad",
+   ["reference"]="invited-talks",
    ["section"]=6,
+  },
+  ["titledata"]={
+   ["label"]="subsection",
+   ["title"]="Invited Talks",
+  },
+ },
+ {
+  ["metadata"]=7,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=12,
+   ["order"]=6,
+   ["realpage"]=2,
+   ["section"]=6,
+  },
+  ["titledata"]={
+   ["title"]="Tutorials",
+  },
+ },
+ {
+  ["metadata"]=7,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=13,
+   ["order"]=7,
+   ["realpage"]=2,
+   ["section"]=6,
+  },
+  ["titledata"]={
+   ["title"]="Research",
+  },
+ },
+ {
+  ["metadata"]=4,
+  ["numberdata"]=17,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=14,
+   ["realpage"]=2,
+   ["reference"]="grands-awards-languages-and-living-abroad",
+   ["section"]=7,
   },
   ["titledata"]={
    ["label"]="subsection",
@@ -284,14 +325,20 @@ utilitydata_structures_pages.collected={
  {
   ["block"]="bodypart",
   ["number"]=1,
-  ["numberdata"]=16,
-  ["prefixdata"]=17,
+  ["numberdata"]=18,
+  ["prefixdata"]=19,
  },
  {
   ["block"]="bodypart",
   ["number"]=2,
-  ["numberdata"]=16,
-  ["prefixdata"]=17,
+  ["numberdata"]=18,
+  ["prefixdata"]=19,
+ },
+ {
+  ["block"]="bodypart",
+  ["number"]=3,
+  ["numberdata"]=18,
+  ["prefixdata"]=19,
  },
 }
 
@@ -407,6 +454,13 @@ utilitydata.job.packed={
    ["block"]="bodypart",
    ["hidenumber"]=true,
    ["numbers"]=14,
+   ["set"]="all",
+  },
+  { 0, 0, 1, 6 },
+  {
+   ["block"]="bodypart",
+   ["hidenumber"]=true,
+   ["numbers"]=16,
    ["set"]="all",
   },
   {
