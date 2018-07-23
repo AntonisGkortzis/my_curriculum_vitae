@@ -28,7 +28,7 @@ local utilitydata_job_passes = utilitydata_job.passes if not utilitydata_job_pas
 
 utilitydata_job_passes.collected={
  ["itemgroup"]={
-  { 2, "0" },
+  { 3, "0" },
   { 1, "0" },
   { 2, "0" },
   { 3, "0" },
@@ -95,7 +95,7 @@ utilitydata_structures_counters.collected={
  },
  ["itemgroup:itemize"]={
   { 0, 2, 3 },
-  { 0, 2, 0, 1, 0, 0, 3, 0, 3, 0, 7 },
+  { 0, 3, 0, 1, 0, 0, 3, 0, 3, 0, 7 },
  },
  ["linenote"]={
   { 0 },
@@ -211,7 +211,7 @@ utilitydata_structures_lists.collected={
   ["references"]={
    ["block"]="bodypart",
    ["internal"]=7,
-   ["realpage"]=1,
+   ["realpage"]=2,
    ["reference"]="technical-experience",
    ["section"]=4,
   },
@@ -226,7 +226,7 @@ utilitydata_structures_lists.collected={
    ["block"]="bodypart",
    ["internal"]=8,
    ["order"]=4,
-   ["realpage"]=1,
+   ["realpage"]=2,
    ["section"]=4,
   },
   ["titledata"]={
