@@ -309,8 +309,23 @@ utilitydata_structures_lists.collected={
    ["block"]="bodypart",
    ["internal"]=14,
    ["realpage"]=2,
-   ["reference"]="grands-awards-languages-and-living-abroad",
+   ["reference"]="open-source-software-contribution",
    ["section"]=7,
+  },
+  ["titledata"]={
+   ["label"]="subsection",
+   ["title"]="Open Source Software Contribution",
+  },
+ },
+ {
+  ["metadata"]=4,
+  ["numberdata"]=19,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=15,
+   ["realpage"]=3,
+   ["reference"]="grands-awards-languages-and-living-abroad",
+   ["section"]=8,
   },
   ["titledata"]={
    ["label"]="subsection",
@@ -326,20 +341,20 @@ utilitydata_structures_pages.collected={
  {
   ["block"]="bodypart",
   ["number"]=1,
-  ["numberdata"]=18,
-  ["prefixdata"]=19,
+  ["numberdata"]=20,
+  ["prefixdata"]=21,
  },
  {
   ["block"]="bodypart",
   ["number"]=2,
-  ["numberdata"]=18,
-  ["prefixdata"]=19,
+  ["numberdata"]=20,
+  ["prefixdata"]=21,
  },
  {
   ["block"]="bodypart",
   ["number"]=3,
-  ["numberdata"]=18,
-  ["prefixdata"]=19,
+  ["numberdata"]=20,
+  ["prefixdata"]=21,
  },
 }
 
@@ -462,6 +477,13 @@ utilitydata.job.packed={
    ["block"]="bodypart",
    ["hidenumber"]=true,
    ["numbers"]=16,
+   ["set"]="all",
+  },
+  { 0, 0, 1, 7 },
+  {
+   ["block"]="bodypart",
+   ["hidenumber"]=true,
+   ["numbers"]=18,
    ["set"]="all",
   },
   {
