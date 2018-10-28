@@ -8,7 +8,7 @@
     text-align: center;
     font-weight: 100;
     font-size: 25px;
-}
+} 
 
 .monospace {
     font-family: 'Cutive Mono', monospace !important;
@@ -19,12 +19,16 @@ body {
 //    font-family: 'Cutive Mono', monospace;
 }
 
+<<<<<<< HEAD
+@media(min-width:950px){.bag.fixed{max-width: 950px;}}
+=======
 @media(min-width:992px){.bag.fixed{width: 950px;}}
+>>>>>>> 91a3d323e3a00f2fef560bef9552a9ed9a500613
 
 pre {
     background: white;
     border: 1px solid #DDDDDD;
-    padding: 10px;
+    margin: auto;
     overflow: auto;
     border-radius: 3px;
     color: #373727;
