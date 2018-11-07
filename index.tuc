@@ -230,7 +230,7 @@ utilitydata_structures_lists.collected={
    ["section"]=4,
   },
   ["titledata"]={
-   ["title"]="Knowledge",
+   ["title"]="{\\em Knowledge}",
   },
  },
  {
@@ -243,7 +243,7 @@ utilitydata_structures_lists.collected={
    ["section"]=4,
   },
   ["titledata"]={
-   ["title"]="Projects",
+   ["title"]="{\\em Projects}",
   },
  },
  {
