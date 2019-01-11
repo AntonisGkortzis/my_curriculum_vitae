@@ -40,7 +40,7 @@ fonts           > names > scanning path '/usr/share/texmf' for OTF files
 fonts           > names > 0 entries found, 73 OTF files checked, 73 okay
 fonts           > names > scanning path '/usr/share/texlive/texmf-dist' for OTF files
 fonts           > names > 0 entries found, 2 OTF files checked, 2 okay
-fonts           > names > 150 tree files identified, 76 skipped, 76 duplicates, 74 hash entries added, runtime 0.622 seconds
+fonts           > names > 150 tree files identified, 76 skipped, 76 duplicates, 74 hash entries added, runtime 0.482 seconds
 fonts           > names > identifying tree font files with suffix 'ttf'
 fonts           > names > scanning path '/etc/texmf' for ttf files
 fonts           > names > 0 entries found, 0 ttf files checked, 0 okay
@@ -63,7 +63,7 @@ fonts           > names > scanning path '/usr/share/texmf' for TTF files
 fonts           > names > 0 entries found, 0 TTF files checked, 0 okay
 fonts           > names > scanning path '/usr/share/texlive/texmf-dist' for TTF files
 fonts           > names > 0 entries found, 0 TTF files checked, 0 okay
-fonts           > names > 0 tree files identified, 0 skipped, 0 duplicates, 0 hash entries added, runtime 0.106 seconds
+fonts           > names > 0 tree files identified, 0 skipped, 0 duplicates, 0 hash entries added, runtime 0.089 seconds
 fonts           > names > identifying tree font files with suffix 'ttc'
 fonts           > names > scanning path '/etc/texmf' for ttc files
 fonts           > names > 0 entries found, 0 ttc files checked, 0 okay
@@ -86,7 +86,7 @@ fonts           > names > scanning path '/usr/share/texmf' for TTC files
 fonts           > names > 0 entries found, 0 TTC files checked, 0 okay
 fonts           > names > scanning path '/usr/share/texlive/texmf-dist' for TTC files
 fonts           > names > 0 entries found, 0 TTC files checked, 0 okay
-fonts           > names > 0 tree files identified, 0 skipped, 0 duplicates, 0 hash entries added, runtime 0.103 seconds
+fonts           > names > 0 tree files identified, 0 skipped, 0 duplicates, 0 hash entries added, runtime 0.090 seconds
 fonts           > names > identifying tree font files with suffix 'dfont'
 fonts           > names > scanning path '/etc/texmf' for dfont files
 fonts           > names > 0 entries found, 0 dfont files checked, 0 okay
@@ -109,7 +109,7 @@ fonts           > names > scanning path '/usr/share/texmf' for DFONT files
 fonts           > names > 0 entries found, 0 DFONT files checked, 0 okay
 fonts           > names > scanning path '/usr/share/texlive/texmf-dist' for DFONT files
 fonts           > names > 0 entries found, 0 DFONT files checked, 0 okay
-fonts           > names > 0 tree files identified, 0 skipped, 0 duplicates, 0 hash entries added, runtime 0.105 seconds
+fonts           > names > 0 tree files identified, 0 skipped, 0 duplicates, 0 hash entries added, runtime 0.089 seconds
 fonts           > names > identifying tree font files with suffix 'afm'
 fonts           > names > scanning path '/etc/texmf' for afm files
 fonts           > names > 0 entries found, 0 afm files checked, 0 okay
@@ -132,7 +132,7 @@ fonts           > names > scanning path '/usr/share/texmf' for AFM files
 fonts           > names > 0 entries found, 194 AFM files checked, 194 okay
 fonts           > names > scanning path '/usr/share/texlive/texmf-dist' for AFM files
 fonts           > names > 0 entries found, 369 AFM files checked, 369 okay
-fonts           > names > 1126 tree files identified, 563 skipped, 563 duplicates, 563 hash entries added, runtime 0.230 seconds
+fonts           > names > 1126 tree files identified, 563 skipped, 563 duplicates, 563 hash entries added, runtime 0.198 seconds
 fonts           > names > identifying system font files with suffix 'otf'
 fonts           > names > identifying system font files with suffix 'OTF'
 fonts           > names > 0 system files identified, 0 skipped, 0 duplicates, 0 hash entries added, runtime 0.000 seconds
@@ -184,7 +184,7 @@ fonts           > names >
 fonts           > names >   0         : 0=436
 fonts           > names >   5         : 5=74
 fonts           > names > 
-fonts           > names > total scan time 1.178 seconds
+fonts           > names > total scan time 0.958 seconds
 system          > lua > compiling '/home/travis/.texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/data/names.tma' into '/home/travis/.texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/data/names.tmc'
 system          > lua > dumping '/home/travis/.texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/data/names.tma' into '/home/travis/.texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/data/names.tmc' stripped
 fonts           > names > accessing the data table failed
@@ -199,7 +199,7 @@ fonts           > otf loading > 3028 bogus names removed
 fonts           > otf loading > saving '/usr/share/texmf/fonts/opentype/public/lm-math/latinmodern-math.otf' in cache
 system          > lua > compiling '/home/travis/.texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/otf/latinmodern-math.tma' into '/home/travis/.texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/otf/latinmodern-math.tmc'
 system          > lua > dumping '/home/travis/.texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/otf/latinmodern-math.tma' into '/home/travis/.texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/otf/latinmodern-math.tmc' stripped
-fonts           > otf loading > preprocessing and caching time 0.399, packtime 0.044
+fonts           > otf loading > preprocessing and caching time 0.365, packtime 0.035
 structure       > sectioning > section @ level 3 : 0.0.1 -> Stefanos Georgiou
 fonts           > defining > font with asked name 'texgyreheros-regular' is not found using lookup 'file'
 fonts           > defining > unknown font 'texgyreheros-regular', loading aborted
@@ -459,8 +459,8 @@ close source    > 1 > 4 > /usr/share/texmf/tex/context/base/cont-yes.mkiv
 
 mkiv lua stats  > used config file: /usr/share/texmf/web2c/texmfcnf.lua;/usr/share/texlive/texmf-dist/web2c/texmfcnf.lua
 mkiv lua stats  > used cache path: readable: '/var/lib/texmf/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442' | readable+writable: '/home/travis/.texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442'
-mkiv lua stats  > resource resolver: loadtime 0.016 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 529 found files, scanned paths: <none>
-mkiv lua stats  > stored bytecode data: 371 modules (0.237 sec), 78 tables (0.009 sec), 449 chunks (0.246 sec)
+mkiv lua stats  > resource resolver: loadtime 0.011 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 529 found files, scanned paths: <none>
+mkiv lua stats  > stored bytecode data: 371 modules (0.193 sec), 78 tables (0.008 sec), 449 chunks (0.201 sec)
 mkiv lua stats  > traced context: maxstack: 1150, freed: 18, unreachable: 1132
 mkiv lua stats  > running in nuts mode: yes
 mkiv lua stats  > cleaned up reserved nodes: 53 nodes, 439 lists of 438
@@ -468,19 +468,19 @@ mkiv lua stats  > node memory usage: 2 glue, 2 penalty, 12 attribute, 53 glue_sp
 mkiv lua stats  > node list callback tasks: 6 unique task lists, 6 instances (re)created, 610 calls
 mkiv lua stats  > used backend: pdf (backend for directly generating pdf output)
 mkiv lua stats  > loaded patterns: en::2, load time: 0.000
-mkiv lua stats  > jobdata time: 0.002 seconds saving, 0.001 seconds loading
+mkiv lua stats  > jobdata time: 0.001 seconds saving, 0.001 seconds loading
 mkiv lua stats  > callbacks: 1150 direct, 829 indirect, 1979 total
 mkiv lua stats  > randomizer: resumed with value 0.98254495439238
 mkiv lua stats  > interactive elements: 25 references, 14 destinations
 mkiv lua stats  > result saved in file: web/index.pdf.pdf, compresslevel 3, objectcompresslevel 3
 mkiv lua stats  > loaded fonts: 1 files: latinmodern-math.otf
-mkiv lua stats  > fonts load time: 1.832 seconds 
+mkiv lua stats  > fonts load time: 1.546 seconds 
 mkiv lua stats  > pdf annotations: 25 links (25 unique), 0 special
 mkiv lua stats  > used platform: linux-64, type: unix, binary subtree: usr
 mkiv lua stats  > luatex banner: this is luatex, version beta-0.80.0 (tex live 2015/debian) (rev 5238)
 mkiv lua stats  > control sequences: 43436 of 65536 + 100000
-mkiv lua stats  > lua properties: engine: lua, used memory: 94 MB (ctx: 93 MB), hash type: lua, hash chars: min(64,40), symbol mask: utf (τεχ)
-mkiv lua stats  > runtime: 2.212 seconds, 3 processed pages, 3 shipped pages, 1.356 pages/second
+mkiv lua stats  > lua properties: engine: lua, used memory: 89 MB (ctx: 89 MB), hash type: lua, hash chars: min(64,40), symbol mask: utf (τεχ)
+mkiv lua stats  > runtime: 1.863 seconds, 3 processed pages, 3 shipped pages, 1.610 pages/second
 
 mtx-context     | result renamed to: web/index
-system          | total runtime: 2.464 seconds
+system          | total runtime: 2.089 seconds
