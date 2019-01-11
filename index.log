@@ -35,7 +35,7 @@ fonts           > names > scanning path '/usr/share/texmf' for OTF files
 fonts           > names > 0 entries found, 73 OTF files checked, 73 okay
 fonts           > names > scanning path '/usr/share/texlive/texmf-dist' for OTF files
 fonts           > names > 0 entries found, 2 OTF files checked, 2 okay
-fonts           > names > 150 tree files identified, 76 skipped, 76 duplicates, 74 hash entries added, runtime 0.581 seconds
+fonts           > names > 150 tree files identified, 76 skipped, 76 duplicates, 74 hash entries added, runtime 0.622 seconds
 fonts           > names > identifying tree font files with suffix 'ttf'
 fonts           > names > scanning path '/etc/texmf' for ttf files
 fonts           > names > 0 entries found, 0 ttf files checked, 0 okay
@@ -58,7 +58,7 @@ fonts           > names > scanning path '/usr/share/texmf' for TTF files
 fonts           > names > 0 entries found, 0 TTF files checked, 0 okay
 fonts           > names > scanning path '/usr/share/texlive/texmf-dist' for TTF files
 fonts           > names > 0 entries found, 0 TTF files checked, 0 okay
-fonts           > names > 0 tree files identified, 0 skipped, 0 duplicates, 0 hash entries added, runtime 0.090 seconds
+fonts           > names > 0 tree files identified, 0 skipped, 0 duplicates, 0 hash entries added, runtime 0.106 seconds
 fonts           > names > identifying tree font files with suffix 'ttc'
 fonts           > names > scanning path '/etc/texmf' for ttc files
 fonts           > names > 0 entries found, 0 ttc files checked, 0 okay
@@ -81,7 +81,7 @@ fonts           > names > scanning path '/usr/share/texmf' for TTC files
 fonts           > names > 0 entries found, 0 TTC files checked, 0 okay
 fonts           > names > scanning path '/usr/share/texlive/texmf-dist' for TTC files
 fonts           > names > 0 entries found, 0 TTC files checked, 0 okay
-fonts           > names > 0 tree files identified, 0 skipped, 0 duplicates, 0 hash entries added, runtime 0.091 seconds
+fonts           > names > 0 tree files identified, 0 skipped, 0 duplicates, 0 hash entries added, runtime 0.103 seconds
 fonts           > names > identifying tree font files with suffix 'dfont'
 fonts           > names > scanning path '/etc/texmf' for dfont files
 fonts           > names > 0 entries found, 0 dfont files checked, 0 okay
@@ -104,7 +104,7 @@ fonts           > names > scanning path '/usr/share/texmf' for DFONT files
 fonts           > names > 0 entries found, 0 DFONT files checked, 0 okay
 fonts           > names > scanning path '/usr/share/texlive/texmf-dist' for DFONT files
 fonts           > names > 0 entries found, 0 DFONT files checked, 0 okay
-fonts           > names > 0 tree files identified, 0 skipped, 0 duplicates, 0 hash entries added, runtime 0.089 seconds
+fonts           > names > 0 tree files identified, 0 skipped, 0 duplicates, 0 hash entries added, runtime 0.105 seconds
 fonts           > names > identifying tree font files with suffix 'afm'
 fonts           > names > scanning path '/etc/texmf' for afm files
 fonts           > names > 0 entries found, 0 afm files checked, 0 okay
@@ -127,7 +127,7 @@ fonts           > names > scanning path '/usr/share/texmf' for AFM files
 fonts           > names > 0 entries found, 194 AFM files checked, 194 okay
 fonts           > names > scanning path '/usr/share/texlive/texmf-dist' for AFM files
 fonts           > names > 0 entries found, 369 AFM files checked, 369 okay
-fonts           > names > 1126 tree files identified, 563 skipped, 563 duplicates, 563 hash entries added, runtime 0.214 seconds
+fonts           > names > 1126 tree files identified, 563 skipped, 563 duplicates, 563 hash entries added, runtime 0.230 seconds
 fonts           > names > identifying system font files with suffix 'otf'
 fonts           > names > identifying system font files with suffix 'OTF'
 fonts           > names > 0 system files identified, 0 skipped, 0 duplicates, 0 hash entries added, runtime 0.000 seconds
@@ -179,7 +179,7 @@ fonts           > names >
 fonts           > names >   0         : 0=436
 fonts           > names >   5         : 5=74
 fonts           > names > 
-fonts           > names > total scan time 1.075 seconds
+fonts           > names > total scan time 1.178 seconds
 system          > lua > compiling '/home/travis/.texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/data/names.tma' into '/home/travis/.texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/data/names.tmc'
 system          > lua > dumping '/home/travis/.texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/data/names.tma' into '/home/travis/.texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/data/names.tmc' stripped
 fonts           > names > accessing the data table failed
@@ -194,7 +194,7 @@ fonts           > otf loading > 3028 bogus names removed
 fonts           > otf loading > saving '/usr/share/texmf/fonts/opentype/public/lm-math/latinmodern-math.otf' in cache
 system          > lua > compiling '/home/travis/.texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/otf/latinmodern-math.tma' into '/home/travis/.texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/otf/latinmodern-math.tmc'
 system          > lua > dumping '/home/travis/.texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/otf/latinmodern-math.tma' into '/home/travis/.texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/otf/latinmodern-math.tmc' stripped
-fonts           > otf loading > preprocessing and caching time 0.381, packtime 0.042
+fonts           > otf loading > preprocessing and caching time 0.399, packtime 0.044
 structure       > sectioning > section @ level 3 : 0.0.1 -> Stefanos Georgiou
 fonts           > defining > font with asked name 'texgyreheros-regular' is not found using lookup 'file'
 fonts           > defining > unknown font 'texgyreheros-regular', loading aborted
@@ -493,525 +493,525 @@ used file       >    4: filename=lang-us.lua filetype=scripts foundname=/usr/sha
 used file       >    5: filename=web/index.tex foundname=web/index.tex usedmethod=direct
 used file       >    6: filename=type-imp-texgyre.mkiv filetype=tex foundname=/usr/share/texmf/tex/context/base/type-imp-texgyre.mkiv usedmethod=database
 used file       >    7: filename=lm.lfg filetype=tex foundname=/usr/share/texmf/tex/context/fonts/lm.lfg usedmethod=database
-used file       >    8: filename=lmtt12.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmtt12.pfb usedmethod=database
-used file       >    9: filename=qzcmi.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qzcmi.pfb usedmethod=database
-used file       >   10: filename=lmvtlo10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmvtlo10.pfb usedmethod=database
-used file       >   11: filename=lmssqo8.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmssqo8.pfb usedmethod=database
-used file       >   12: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipatt12.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipatt12.pfb usedmethod=direct
-used file       >   13: filename=lmsy5.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmsy5.pfb usedmethod=database
-used file       >   14: filename=lmri8.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmri8.pfb usedmethod=database
-used file       >   15: filename=qtmbi.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qtmbi.pfb usedmethod=database
-used file       >   16: filename=lmmi7.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmmi7.pfb usedmethod=database
-used file       >   17: filename=lmvtl10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmvtl10.pfb usedmethod=database
-used file       >   18: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxss10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxss10.pfb usedmethod=direct
-used file       >   19: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxsl8.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxsl8.pfb usedmethod=direct
-used file       >   20: filename=lmmib7.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmmib7.pfb usedmethod=database
-used file       >   21: filename=lmcsco10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmcsco10.pfb usedmethod=database
-used file       >   22: filename=qhvb.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qhvb.pfb usedmethod=database
-used file       >   23: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxts10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxts10.pfb usedmethod=direct
-used file       >   24: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipatt10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipatt10.pfb usedmethod=direct
-used file       >   25: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxb10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxb10.pfb usedmethod=direct
-used file       >   26: filename=qtmri.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qtmri.pfb usedmethod=database
-used file       >   27: filename=/usr/share/texmf/fonts/type1/fkr/tipa/xipxsb10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/xipxsb10.pfb usedmethod=direct
-used file       >   28: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxbx8.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxbx8.pfb usedmethod=direct
-used file       >   29: filename=/usr/share/texmf/fonts/type1/fkr/tipa/xipasb10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/xipasb10.pfb usedmethod=direct
-used file       >   30: filename=lmtti10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmtti10.pfb usedmethod=database
-used file       >   31: filename=qhvcri.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qhvcri.pfb usedmethod=database
-used file       >   32: filename=lmmib10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmmib10.pfb usedmethod=database
-used file       >   33: filename=lmvtto10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmvtto10.pfb usedmethod=database
-used file       >   34: filename=lmtlo10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmtlo10.pfb usedmethod=database
-used file       >   35: filename=qhvbi.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qhvbi.pfb usedmethod=database
-used file       >   36: filename=qplb.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qplb.pfb usedmethod=database
-used file       >   37: filename=lmtlc10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmtlc10.pfb usedmethod=database
-used file       >   38: filename=lmsso8.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmsso8.pfb usedmethod=database
-used file       >   39: filename=lmssbo10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmssbo10.pfb usedmethod=database
-used file       >   40: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipasl9.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipasl9.pfb usedmethod=direct
-used file       >   41: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipx10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipx10.pfb usedmethod=direct
-used file       >   42: filename=/usr/share/texmf/fonts/type1/fkr/tipa/xipx10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/xipx10.pfb usedmethod=direct
-used file       >   43: filename=qagb.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qagb.pfb usedmethod=database
-used file       >   44: filename=lmssdo10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmssdo10.pfb usedmethod=database
-used file       >   45: filename=lmb10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmb10.pfb usedmethod=database
-used file       >   46: filename=qplr.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qplr.pfb usedmethod=database
-used file       >   47: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxss17.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxss17.pfb usedmethod=direct
-used file       >   48: filename=qcsri.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qcsri.pfb usedmethod=database
-used file       >   49: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipabx8.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipabx8.pfb usedmethod=direct
-used file       >   50: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipx8.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipx8.pfb usedmethod=direct
-used file       >   51: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipass9.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipass9.pfb usedmethod=direct
-used file       >   52: filename=lmro17.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmro17.pfb usedmethod=database
-used file       >   53: filename=lmbsy5.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmbsy5.pfb usedmethod=database
-used file       >   54: filename=lmsso10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmsso10.pfb usedmethod=database
-used file       >   55: filename=lmtko10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmtko10.pfb usedmethod=database
-used file       >   56: filename=lmsy7.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb usedmethod=database
-used file       >   57: filename=lmbx6.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmbx6.pfb usedmethod=database
-used file       >   58: filename=lmtt8.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmtt8.pfb usedmethod=database
-used file       >   59: filename=qagr.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qagr.pfb usedmethod=database
-used file       >   60: filename=lmvtk10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmvtk10.pfb usedmethod=database
-used file       >   61: filename=lmssdc10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmssdc10.pfb usedmethod=database
-used file       >   62: filename=qplbi.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qplbi.pfb usedmethod=database
-used file       >   63: filename=lmsy9.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmsy9.pfb usedmethod=database
-used file       >   64: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxtt8.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxtt8.pfb usedmethod=direct
-used file       >   65: filename=qbkri.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qbkri.pfb usedmethod=database
-used file       >   66: filename=lmr12.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmr12.pfb usedmethod=database
-used file       >   67: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipatt8.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipatt8.pfb usedmethod=direct
-used file       >   68: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipabx12.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipabx12.pfb usedmethod=direct
-used file       >   69: filename=qbkbi.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qbkbi.pfb usedmethod=database
-used file       >   70: filename=lmr7.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmr7.pfb usedmethod=database
-used file       >   71: filename=lmex10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmex10.pfb usedmethod=database
-used file       >   72: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipx9.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipx9.pfb usedmethod=direct
-used file       >   73: filename=lmro8.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmro8.pfb usedmethod=database
-used file       >   74: filename=qhvr.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qhvr.pfb usedmethod=database
-used file       >   75: filename=lmtlco10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmtlco10.pfb usedmethod=database
-used file       >   76: filename=lmssq8.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmssq8.pfb usedmethod=database
-used file       >   77: filename=lmtt10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb usedmethod=database
-used file       >   78: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipatt9.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipatt9.pfb usedmethod=direct
-used file       >   79: filename=lmr8.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmr8.pfb usedmethod=database
-used file       >   80: filename=lmssqbx8.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmssqbx8.pfb usedmethod=database
-used file       >   81: filename=lmbsy10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmbsy10.pfb usedmethod=database
-used file       >   82: filename=lmsy10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb usedmethod=database
-used file       >   83: filename=qcsb.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qcsb.pfb usedmethod=database
-used file       >   84: filename=lmmi5.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmmi5.pfb usedmethod=database
-used file       >   85: filename=lmss8.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmss8.pfb usedmethod=database
-used file       >   86: filename=lmri9.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmri9.pfb usedmethod=database
-used file       >   87: filename=lmu10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmu10.pfb usedmethod=database
-used file       >   88: filename=lmtcsc10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmtcsc10.pfb usedmethod=database
-used file       >   89: filename=lmtt9.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmtt9.pfb usedmethod=database
-used file       >   90: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipa9.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipa9.pfb usedmethod=direct
-used file       >   91: filename=lmtcso10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmtcso10.pfb usedmethod=database
-used file       >   92: filename=lmbxi10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmbxi10.pfb usedmethod=database
-used file       >   93: filename=lmdunh10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmdunh10.pfb usedmethod=database
-used file       >   94: filename=qhvcbi.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qhvcbi.pfb usedmethod=database
-used file       >   95: filename=lmr9.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmr9.pfb usedmethod=database
-used file       >   96: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipass12.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipass12.pfb usedmethod=direct
-used file       >   97: filename=lmr5.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmr5.pfb usedmethod=database
-used file       >   98: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxsl10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxsl10.pfb usedmethod=direct
-used file       >   99: filename=lmtl10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmtl10.pfb usedmethod=database
-used file       >  100: filename=lmss10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmss10.pfb usedmethod=database
-used file       >  101: filename=lmsso9.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmsso9.pfb usedmethod=database
-used file       >  102: filename=qcrb.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qcrb.pfb usedmethod=database
-used file       >  103: filename=lmsso17.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmsso17.pfb usedmethod=database
-used file       >  104: filename=lmri12.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmri12.pfb usedmethod=database
-used file       >  105: filename=lmvtko10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmvtko10.pfb usedmethod=database
-used file       >  106: filename=qbkb.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qbkb.pfb usedmethod=database
-used file       >  107: filename=lmbx7.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmbx7.pfb usedmethod=database
-used file       >  108: filename=lmbx9.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmbx9.pfb usedmethod=database
-used file       >  109: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipabs10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipabs10.pfb usedmethod=direct
-used file       >  110: filename=/usr/share/texmf/fonts/type1/fkr/tipa/xipabs10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/xipabs10.pfb usedmethod=direct
-used file       >  111: filename=lmmi8.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmmi8.pfb usedmethod=database
-used file       >  112: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipats10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipats10.pfb usedmethod=direct
-used file       >  113: filename=qcrbi.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qcrbi.pfb usedmethod=database
-used file       >  114: filename=/usr/share/texmf/fonts/type1/fkr/tipa/xipxsi10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/xipxsi10.pfb usedmethod=direct
-used file       >  115: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxsi10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxsi10.pfb usedmethod=direct
-used file       >  116: filename=qcsr.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qcsr.pfb usedmethod=database
-used file       >  117: filename=lmmi9.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmmi9.pfb usedmethod=database
-used file       >  118: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipabx9.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipabx9.pfb usedmethod=direct
-used file       >  119: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxbx12.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxbx12.pfb usedmethod=direct
-used file       >  120: filename=/usr/share/texmf/fonts/type1/fkr/tipa/xipasl10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/xipasl10.pfb usedmethod=direct
-used file       >  121: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipasl10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipasl10.pfb usedmethod=direct
-used file       >  122: filename=/usr/share/texmf/fonts/type1/fkr/tipa/xipxsl10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/xipxsl10.pfb usedmethod=direct
-used file       >  123: filename=lmr10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmr10.pfb usedmethod=database
-used file       >  124: filename=lmsso12.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmsso12.pfb usedmethod=database
-used file       >  125: filename=/usr/share/texmf/fonts/type1/fkr/tipa/xipxss10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/xipxss10.pfb usedmethod=direct
-used file       >  126: filename=/usr/share/texmf/fonts/type1/fkr/tipa/xipxbs10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/xipxbs10.pfb usedmethod=direct
-used file       >  127: filename=/usr/share/texmf/fonts/type1/fkr/tipa/xipxb10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/xipxb10.pfb usedmethod=direct
-used file       >  128: filename=lmbo10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmbo10.pfb usedmethod=database
-used file       >  129: filename=/usr/share/texmf/fonts/type1/fkr/tipa/xipa10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/xipa10.pfb usedmethod=direct
-used file       >  130: filename=lmr6.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmr6.pfb usedmethod=database
-used file       >  131: filename=lmmi12.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmmi12.pfb usedmethod=database
-used file       >  132: filename=qtmb.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qtmb.pfb usedmethod=database
-used file       >  133: filename=lmtto10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmtto10.pfb usedmethod=database
-used file       >  134: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxtt9.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxtt9.pfb usedmethod=direct
-used file       >  135: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxtt12.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxtt12.pfb usedmethod=direct
-used file       >  136: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxtt10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxtt10.pfb usedmethod=direct
-used file       >  137: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxss8.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxss8.pfb usedmethod=direct
-used file       >  138: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxss12.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxss12.pfb usedmethod=direct
-used file       >  139: filename=qplri.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qplri.pfb usedmethod=database
-used file       >  140: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxsl12.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxsl12.pfb usedmethod=direct
-used file       >  141: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxsb10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxsb10.pfb usedmethod=direct
-used file       >  142: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxbx10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxbx10.pfb usedmethod=direct
-used file       >  143: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxbs10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxbs10.pfb usedmethod=direct
-used file       >  144: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipx12.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipx12.pfb usedmethod=direct
-used file       >  145: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipass8.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipass8.pfb usedmethod=direct
-used file       >  146: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipass10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipass10.pfb usedmethod=direct
-used file       >  147: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipasl8.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipasl8.pfb usedmethod=direct
-used file       >  148: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipasl12.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipasl12.pfb usedmethod=direct
-used file       >  149: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipasi10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipasi10.pfb usedmethod=direct
-used file       >  150: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipasb10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipasb10.pfb usedmethod=direct
-used file       >  151: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipabx10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipabx10.pfb usedmethod=direct
-used file       >  152: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipa8.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipa8.pfb usedmethod=direct
-used file       >  153: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipa17.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipa17.pfb usedmethod=direct
-used file       >  154: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipa12.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipa12.pfb usedmethod=direct
-used file       >  155: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipa10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipa10.pfb usedmethod=direct
-used file       >  156: filename=lmbx5.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmbx5.pfb usedmethod=database
-used file       >  157: filename=lmss9.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmss9.pfb usedmethod=database
-used file       >  158: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipx17.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipx17.pfb usedmethod=direct
-used file       >  159: filename=qhvcb.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qhvcb.pfb usedmethod=database
-used file       >  160: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxss9.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxss9.pfb usedmethod=direct
-used file       >  161: filename=qtmr.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qtmr.pfb usedmethod=database
-used file       >  162: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxbx9.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxbx9.pfb usedmethod=direct
-used file       >  163: filename=lmduno10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmduno10.pfb usedmethod=database
-used file       >  164: filename=contnav.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/hoekwater/context/contnav.pfb usedmethod=database
-used file       >  165: filename=qcrri.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qcrri.pfb usedmethod=database
-used file       >  166: filename=qagri.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qagri.pfb usedmethod=database
-used file       >  167: filename=lmmib5.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmmib5.pfb usedmethod=database
-used file       >  168: filename=lmbxo10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmbxo10.pfb usedmethod=database
-used file       >  169: filename=lmro12.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmro12.pfb usedmethod=database
-used file       >  170: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipass17.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipass17.pfb usedmethod=direct
-used file       >  171: filename=lmsy6.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmsy6.pfb usedmethod=database
-used file       >  172: filename=qbkr.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qbkr.pfb usedmethod=database
-used file       >  173: filename=qhvri.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qhvri.pfb usedmethod=database
-used file       >  174: filename=qhvcr.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qhvcr.pfb usedmethod=database
-used file       >  175: filename=qcsbi.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qcsbi.pfb usedmethod=database
-used file       >  176: filename=qcrr.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qcrr.pfb usedmethod=database
-used file       >  177: filename=qagbi.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qagbi.pfb usedmethod=database
-used file       >  178: filename=/usr/share/texmf/fonts/type1/fkr/tipa/xipass10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/xipass10.pfb usedmethod=direct
-used file       >  179: filename=lmss12.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmss12.pfb usedmethod=database
-used file       >  180: filename=lmbx12.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb usedmethod=database
-used file       >  181: filename=/usr/share/texmf/fonts/type1/fkr/tipa/xipasi10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/xipasi10.pfb usedmethod=direct
-used file       >  182: filename=lmssbx10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb usedmethod=database
-used file       >  183: filename=lmcsc10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmcsc10.pfb usedmethod=database
-used file       >  184: filename=lmro10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmro10.pfb usedmethod=database
-used file       >  185: filename=/usr/share/texmf/fonts/type1/fkr/tipa/xipab10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/xipab10.pfb usedmethod=direct
-used file       >  186: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipab10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipab10.pfb usedmethod=direct
-used file       >  187: filename=lmvtt10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmvtt10.pfb usedmethod=database
-used file       >  188: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxsl9.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxsl9.pfb usedmethod=direct
-used file       >  189: filename=lmtk10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmtk10.pfb usedmethod=database
-used file       >  190: filename=lmsy8.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb usedmethod=database
-used file       >  191: filename=lmss17.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmss17.pfb usedmethod=database
-used file       >  192: filename=lmri7.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmri7.pfb usedmethod=database
-used file       >  193: filename=lmri10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmri10.pfb usedmethod=database
-used file       >  194: filename=lmr17.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmr17.pfb usedmethod=database
-used file       >  195: filename=lmmi6.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmmi6.pfb usedmethod=database
-used file       >  196: filename=lmmi10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb usedmethod=database
-used file       >  197: filename=lmbx8.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmbx8.pfb usedmethod=database
-used file       >  198: filename=lmbx10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb usedmethod=database
-used file       >  199: filename=lmbsy7.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmbsy7.pfb usedmethod=database
-used file       >  200: filename=lmssqbo8.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmssqbo8.pfb usedmethod=database
-used file       >  201: filename=lmro9.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmro9.pfb usedmethod=database
-used file       >  202: filename=euex9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/euex9.pfb usedmethod=database
-used file       >  203: filename=cmtt12.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb usedmethod=database
-used file       >  204: filename=cmsl8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl8.pfb usedmethod=database
-used file       >  205: filename=fplbj8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb usedmethod=database
-used file       >  206: filename=cmex9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex9.pfb usedmethod=database
-used file       >  207: filename=cmcsc9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmcsc9.pfb usedmethod=database
-used file       >  208: filename=cmmib8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib8.pfb usedmethod=database
-used file       >  209: filename=cmti10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb usedmethod=database
-used file       >  210: filename=wncysc10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cyrillic/wncysc10.pfb usedmethod=database
-used file       >  211: filename=ubkl8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb usedmethod=database
-used file       >  212: filename=rsfs5.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/rsfs/rsfs5.pfb usedmethod=database
-used file       >  213: filename=cmss12.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb usedmethod=database
-used file       >  214: filename=pcrbo8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/adobe/courier/pcrbo8a.pfb usedmethod=database
-used file       >  215: filename=fplrij8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb usedmethod=database
-used file       >  216: filename=logobf10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/hoekwater/mflogo-font/logobf10.pfb usedmethod=database
-used file       >  217: filename=txbsy.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txbsy.pfb usedmethod=database
-used file       >  218: filename=rtcxr.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtcxr.pfb usedmethod=database
-used file       >  219: filename=txsy.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb usedmethod=database
-used file       >  220: filename=eufb7.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eufb7.pfb usedmethod=database
-used file       >  221: filename=pxsy.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/pxsy.pfb usedmethod=database
-used file       >  222: filename=cmmib10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb usedmethod=database
-used file       >  223: filename=bchri8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/bitstrea/charter/bchri8a.pfb usedmethod=database
-used file       >  224: filename=rpcxb.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/rpcxb.pfb usedmethod=database
-used file       >  225: filename=txbtt.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txbtt.pfb usedmethod=database
-used file       >  226: filename=rpcxr.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/rpcxr.pfb usedmethod=database
-used file       >  227: filename=rtxmi.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb usedmethod=database
-used file       >  228: filename=pxbsyb.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/pxbsyb.pfb usedmethod=database
-used file       >  229: filename=txbsyb.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txbsyb.pfb usedmethod=database
-used file       >  230: filename=rtcxbi.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtcxbi.pfb usedmethod=database
-used file       >  231: filename=cmbsy5.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmbsy5.pfb usedmethod=database
-used file       >  232: filename=cmr17.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb usedmethod=database
-used file       >  233: filename=cmff10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmff10.pfb usedmethod=database
-used file       >  234: filename=cmsy8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb usedmethod=database
-used file       >  235: filename=cmbsy7.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmbsy7.pfb usedmethod=database
-used file       >  236: filename=cmsy7.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb usedmethod=database
-used file       >  237: filename=tcxbtt.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/tcxbtt.pfb usedmethod=database
-used file       >  238: filename=linew10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/linew10.pfb usedmethod=database
-used file       >  239: filename=cmtt8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb usedmethod=database
-used file       >  240: filename=fplmri.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb usedmethod=database
-used file       >  241: filename=rtxbsc.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxbsc.pfb usedmethod=database
-used file       >  242: filename=cmmi6.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb usedmethod=database
-used file       >  243: filename=lasy7.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lasy7.pfb usedmethod=database
-used file       >  244: filename=wasy7.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/wasy2-ps/wasy7.pfb usedmethod=database
-used file       >  245: filename=rtxss.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxss.pfb usedmethod=database
-used file       >  246: filename=rpxbsc.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/rpxbsc.pfb usedmethod=database
-used file       >  247: filename=cmr12.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb usedmethod=database
-used file       >  248: filename=cmr7.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb usedmethod=database
-used file       >  249: filename=cmbsy8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmbsy8.pfb usedmethod=database
-used file       >  250: filename=pxsyb.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/pxsyb.pfb usedmethod=database
-used file       >  251: filename=rtcxbss.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtcxbss.pfb usedmethod=database
-used file       >  252: filename=xybsql10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xybsql10.pfb usedmethod=database
-used file       >  253: filename=cmmib6.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib6.pfb usedmethod=database
-used file       >  254: filename=cmsltt10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsltt10.pfb usedmethod=database
-used file       >  255: filename=cmtt10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb usedmethod=database
-used file       >  256: filename=cmr8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb usedmethod=database
-used file       >  257: filename=txmia.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txmia.pfb usedmethod=database
-used file       >  258: filename=pxmia.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/pxmia.pfb usedmethod=database
-used file       >  259: filename=t1xttsc.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/t1xttsc.pfb usedmethod=database
-used file       >  260: filename=eusm10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eusm10.pfb usedmethod=database
-used file       >  261: filename=knitnp.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/knitting/knitnp.pfb usedmethod=database
-used file       >  262: filename=xyeubt11.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xyeubt11.pfb usedmethod=database
-used file       >  263: filename=cmssi9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb usedmethod=database
-used file       >  264: filename=cmss8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb usedmethod=database
-used file       >  265: filename=cmmi5.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb usedmethod=database
-used file       >  266: filename=putri8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/adobe/utopia/putri8a.pfb usedmethod=database
-used file       >  267: filename=eufb10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eufb10.pfb usedmethod=database
-used file       >  268: filename=cmtcsc10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtcsc10.pfb usedmethod=database
-used file       >  269: filename=logosl9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/hoekwater/mflogo-font/logosl9.pfb usedmethod=database
-used file       >  270: filename=fplmbb.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/mathpazo/fplmbb.pfb usedmethod=database
-used file       >  271: filename=lasy8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lasy8.pfb usedmethod=database
-used file       >  272: filename=cmssqi8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssqi8.pfb usedmethod=database
-used file       >  273: filename=cmr5.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb usedmethod=database
-used file       >  274: filename=cmss10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb usedmethod=database
-used file       >  275: filename=eurm10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb usedmethod=database
-used file       >  276: filename=lcircle1.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb usedmethod=database
-used file       >  277: filename=msam8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam8.pfb usedmethod=database
-used file       >  278: filename=rpxbmi.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/rpxbmi.pfb usedmethod=database
-used file       >  279: filename=fplmb.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/mathpazo/fplmb.pfb usedmethod=database
-used file       >  280: filename=cmssi8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb usedmethod=database
-used file       >  281: filename=bchbi8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/bitstrea/charter/bchbi8a.pfb usedmethod=database
-used file       >  282: filename=knitwp.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/knitting/knitwp.pfb usedmethod=database
+used file       >    8: filename=contnav.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/hoekwater/context/contnav.pfb usedmethod=database
+used file       >    9: filename=lmbx10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb usedmethod=database
+used file       >   10: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxsi10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxsi10.pfb usedmethod=direct
+used file       >   11: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipasb10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipasb10.pfb usedmethod=direct
+used file       >   12: filename=qhvbi.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qhvbi.pfb usedmethod=database
+used file       >   13: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipass10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipass10.pfb usedmethod=direct
+used file       >   14: filename=/usr/share/texmf/fonts/type1/fkr/tipa/xipass10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/xipass10.pfb usedmethod=direct
+used file       >   15: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipass17.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipass17.pfb usedmethod=direct
+used file       >   16: filename=lmtt12.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmtt12.pfb usedmethod=database
+used file       >   17: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipx12.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipx12.pfb usedmethod=direct
+used file       >   18: filename=lmvtl10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmvtl10.pfb usedmethod=database
+used file       >   19: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipx17.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipx17.pfb usedmethod=direct
+used file       >   20: filename=lmssdc10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmssdc10.pfb usedmethod=database
+used file       >   21: filename=/usr/share/texmf/fonts/type1/fkr/tipa/xipasl10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/xipasl10.pfb usedmethod=direct
+used file       >   22: filename=qplb.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qplb.pfb usedmethod=database
+used file       >   23: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxsl12.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxsl12.pfb usedmethod=direct
+used file       >   24: filename=lmr9.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmr9.pfb usedmethod=database
+used file       >   25: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxss10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxss10.pfb usedmethod=direct
+used file       >   26: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipass12.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipass12.pfb usedmethod=direct
+used file       >   27: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipa10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipa10.pfb usedmethod=direct
+used file       >   28: filename=/usr/share/texmf/fonts/type1/fkr/tipa/xipa10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/xipa10.pfb usedmethod=direct
+used file       >   29: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipa17.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipa17.pfb usedmethod=direct
+used file       >   30: filename=lmr5.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmr5.pfb usedmethod=database
+used file       >   31: filename=lmri9.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmri9.pfb usedmethod=database
+used file       >   32: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxb10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxb10.pfb usedmethod=direct
+used file       >   33: filename=lmbxo10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmbxo10.pfb usedmethod=database
+used file       >   34: filename=lmtt8.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmtt8.pfb usedmethod=database
+used file       >   35: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipasl8.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipasl8.pfb usedmethod=direct
+used file       >   36: filename=lmbsy5.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmbsy5.pfb usedmethod=database
+used file       >   37: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxtt8.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxtt8.pfb usedmethod=direct
+used file       >   38: filename=lmmi7.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmmi7.pfb usedmethod=database
+used file       >   39: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxtt9.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxtt9.pfb usedmethod=direct
+used file       >   40: filename=qtmr.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qtmr.pfb usedmethod=database
+used file       >   41: filename=lmcsco10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmcsco10.pfb usedmethod=database
+used file       >   42: filename=lmss8.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmss8.pfb usedmethod=database
+used file       >   43: filename=lmsy10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb usedmethod=database
+used file       >   44: filename=lmsy9.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmsy9.pfb usedmethod=database
+used file       >   45: filename=lmvtko10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmvtko10.pfb usedmethod=database
+used file       >   46: filename=qcsri.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qcsri.pfb usedmethod=database
+used file       >   47: filename=lmsy7.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb usedmethod=database
+used file       >   48: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipx9.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipx9.pfb usedmethod=direct
+used file       >   49: filename=lmbx6.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmbx6.pfb usedmethod=database
+used file       >   50: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipatt8.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipatt8.pfb usedmethod=direct
+used file       >   51: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipatt10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipatt10.pfb usedmethod=direct
+used file       >   52: filename=lmtlc10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmtlc10.pfb usedmethod=database
+used file       >   53: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipa8.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipa8.pfb usedmethod=direct
+used file       >   54: filename=qhvcbi.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qhvcbi.pfb usedmethod=database
+used file       >   55: filename=lmsy6.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmsy6.pfb usedmethod=database
+used file       >   56: filename=lmr12.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmr12.pfb usedmethod=database
+used file       >   57: filename=qbkri.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qbkri.pfb usedmethod=database
+used file       >   58: filename=lmmi8.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmmi8.pfb usedmethod=database
+used file       >   59: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxss9.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxss9.pfb usedmethod=direct
+used file       >   60: filename=lmbx12.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb usedmethod=database
+used file       >   61: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxsl10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxsl10.pfb usedmethod=direct
+used file       >   62: filename=lmss9.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmss9.pfb usedmethod=database
+used file       >   63: filename=lmbx9.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmbx9.pfb usedmethod=database
+used file       >   64: filename=qagbi.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qagbi.pfb usedmethod=database
+used file       >   65: filename=lmtcso10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmtcso10.pfb usedmethod=database
+used file       >   66: filename=lmr10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmr10.pfb usedmethod=database
+used file       >   67: filename=qcrb.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qcrb.pfb usedmethod=database
+used file       >   68: filename=lmssbo10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmssbo10.pfb usedmethod=database
+used file       >   69: filename=qcrri.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qcrri.pfb usedmethod=database
+used file       >   70: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxss17.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxss17.pfb usedmethod=direct
+used file       >   71: filename=lmtt10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb usedmethod=database
+used file       >   72: filename=qzcmi.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qzcmi.pfb usedmethod=database
+used file       >   73: filename=lmsy5.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmsy5.pfb usedmethod=database
+used file       >   74: filename=lmmib10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmmib10.pfb usedmethod=database
+used file       >   75: filename=lmvtto10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmvtto10.pfb usedmethod=database
+used file       >   76: filename=lmb10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmb10.pfb usedmethod=database
+used file       >   77: filename=qhvcri.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qhvcri.pfb usedmethod=database
+used file       >   78: filename=lmsso10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmsso10.pfb usedmethod=database
+used file       >   79: filename=lmtcsc10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmtcsc10.pfb usedmethod=database
+used file       >   80: filename=lmbo10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmbo10.pfb usedmethod=database
+used file       >   81: filename=lmtlo10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmtlo10.pfb usedmethod=database
+used file       >   82: filename=lmr6.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmr6.pfb usedmethod=database
+used file       >   83: filename=lmro8.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmro8.pfb usedmethod=database
+used file       >   84: filename=lmss17.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmss17.pfb usedmethod=database
+used file       >   85: filename=lmssqo8.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmssqo8.pfb usedmethod=database
+used file       >   86: filename=lmbx8.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmbx8.pfb usedmethod=database
+used file       >   87: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipasl9.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipasl9.pfb usedmethod=direct
+used file       >   88: filename=qplr.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qplr.pfb usedmethod=database
+used file       >   89: filename=lmri8.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmri8.pfb usedmethod=database
+used file       >   90: filename=lmcsc10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmcsc10.pfb usedmethod=database
+used file       >   91: filename=qcrbi.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qcrbi.pfb usedmethod=database
+used file       >   92: filename=qtmri.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qtmri.pfb usedmethod=database
+used file       >   93: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipa9.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipa9.pfb usedmethod=direct
+used file       >   94: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipasi10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipasi10.pfb usedmethod=direct
+used file       >   95: filename=/usr/share/texmf/fonts/type1/fkr/tipa/xipasi10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/xipasi10.pfb usedmethod=direct
+used file       >   96: filename=lmex10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmex10.pfb usedmethod=database
+used file       >   97: filename=lmssbx10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb usedmethod=database
+used file       >   98: filename=lmss12.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmss12.pfb usedmethod=database
+used file       >   99: filename=lmdunh10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmdunh10.pfb usedmethod=database
+used file       >  100: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxtt12.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxtt12.pfb usedmethod=direct
+used file       >  101: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipatt9.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipatt9.pfb usedmethod=direct
+used file       >  102: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxbx12.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxbx12.pfb usedmethod=direct
+used file       >  103: filename=qtmb.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qtmb.pfb usedmethod=database
+used file       >  104: filename=lmmi6.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmmi6.pfb usedmethod=database
+used file       >  105: filename=lmvtk10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmvtk10.pfb usedmethod=database
+used file       >  106: filename=lmr7.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmr7.pfb usedmethod=database
+used file       >  107: filename=lmtl10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmtl10.pfb usedmethod=database
+used file       >  108: filename=lmmib7.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmmib7.pfb usedmethod=database
+used file       >  109: filename=qcrr.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qcrr.pfb usedmethod=database
+used file       >  110: filename=lmmi12.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmmi12.pfb usedmethod=database
+used file       >  111: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipass8.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipass8.pfb usedmethod=direct
+used file       >  112: filename=lmbxi10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmbxi10.pfb usedmethod=database
+used file       >  113: filename=/usr/share/texmf/fonts/type1/fkr/tipa/xipxsl10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/xipxsl10.pfb usedmethod=direct
+used file       >  114: filename=/usr/share/texmf/fonts/type1/fkr/tipa/xipxss10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/xipxss10.pfb usedmethod=direct
+used file       >  115: filename=/usr/share/texmf/fonts/type1/fkr/tipa/xipxsi10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/xipxsi10.pfb usedmethod=direct
+used file       >  116: filename=/usr/share/texmf/fonts/type1/fkr/tipa/xipxbs10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/xipxbs10.pfb usedmethod=direct
+used file       >  117: filename=/usr/share/texmf/fonts/type1/fkr/tipa/xipxb10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/xipxb10.pfb usedmethod=direct
+used file       >  118: filename=/usr/share/texmf/fonts/type1/fkr/tipa/xipasb10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/xipasb10.pfb usedmethod=direct
+used file       >  119: filename=/usr/share/texmf/fonts/type1/fkr/tipa/xipabs10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/xipabs10.pfb usedmethod=direct
+used file       >  120: filename=/usr/share/texmf/fonts/type1/fkr/tipa/xipab10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/xipab10.pfb usedmethod=direct
+used file       >  121: filename=lmro10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmro10.pfb usedmethod=database
+used file       >  122: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxbs10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxbs10.pfb usedmethod=direct
+used file       >  123: filename=lmss10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmss10.pfb usedmethod=database
+used file       >  124: filename=lmsso17.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmsso17.pfb usedmethod=database
+used file       >  125: filename=lmmi9.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmmi9.pfb usedmethod=database
+used file       >  126: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipasl12.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipasl12.pfb usedmethod=direct
+used file       >  127: filename=qbkbi.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qbkbi.pfb usedmethod=database
+used file       >  128: filename=lmtt9.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmtt9.pfb usedmethod=database
+used file       >  129: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxtt10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxtt10.pfb usedmethod=direct
+used file       >  130: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxts10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxts10.pfb usedmethod=direct
+used file       >  131: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxss12.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxss12.pfb usedmethod=direct
+used file       >  132: filename=lmsso12.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmsso12.pfb usedmethod=database
+used file       >  133: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxsl9.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxsl9.pfb usedmethod=direct
+used file       >  134: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxsl8.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxsl8.pfb usedmethod=direct
+used file       >  135: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxbx9.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxbx9.pfb usedmethod=direct
+used file       >  136: filename=qplri.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qplri.pfb usedmethod=database
+used file       >  137: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxbx10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxbx10.pfb usedmethod=direct
+used file       >  138: filename=lmssdo10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmssdo10.pfb usedmethod=database
+used file       >  139: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipx8.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipx8.pfb usedmethod=direct
+used file       >  140: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipatt12.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipatt12.pfb usedmethod=direct
+used file       >  141: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipats10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipats10.pfb usedmethod=direct
+used file       >  142: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipass9.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipass9.pfb usedmethod=direct
+used file       >  143: filename=qagb.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qagb.pfb usedmethod=database
+used file       >  144: filename=lmri7.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmri7.pfb usedmethod=database
+used file       >  145: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipasl10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipasl10.pfb usedmethod=direct
+used file       >  146: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipabx9.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipabx9.pfb usedmethod=direct
+used file       >  147: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipabx8.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipabx8.pfb usedmethod=direct
+used file       >  148: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipabx12.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipabx12.pfb usedmethod=direct
+used file       >  149: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipabx10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipabx10.pfb usedmethod=direct
+used file       >  150: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipabs10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipabs10.pfb usedmethod=direct
+used file       >  151: filename=lmvtt10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmvtt10.pfb usedmethod=database
+used file       >  152: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipa12.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipa12.pfb usedmethod=direct
+used file       >  153: filename=lmu10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmu10.pfb usedmethod=database
+used file       >  154: filename=lmduno10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmduno10.pfb usedmethod=database
+used file       >  155: filename=lmtto10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmtto10.pfb usedmethod=database
+used file       >  156: filename=qbkr.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qbkr.pfb usedmethod=database
+used file       >  157: filename=lmmi10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb usedmethod=database
+used file       >  158: filename=qplbi.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qplbi.pfb usedmethod=database
+used file       >  159: filename=qbkb.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qbkb.pfb usedmethod=database
+used file       >  160: filename=qhvr.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qhvr.pfb usedmethod=database
+used file       >  161: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipab10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipab10.pfb usedmethod=direct
+used file       >  162: filename=lmssqbo8.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmssqbo8.pfb usedmethod=database
+used file       >  163: filename=lmtlco10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmtlco10.pfb usedmethod=database
+used file       >  164: filename=lmtti10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmtti10.pfb usedmethod=database
+used file       >  165: filename=qtmbi.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qtmbi.pfb usedmethod=database
+used file       >  166: filename=lmsso8.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmsso8.pfb usedmethod=database
+used file       >  167: filename=qcsr.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qcsr.pfb usedmethod=database
+used file       >  168: filename=lmr17.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmr17.pfb usedmethod=database
+used file       >  169: filename=lmbx5.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmbx5.pfb usedmethod=database
+used file       >  170: filename=qhvb.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qhvb.pfb usedmethod=database
+used file       >  171: filename=lmri10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmri10.pfb usedmethod=database
+used file       >  172: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipx10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipx10.pfb usedmethod=direct
+used file       >  173: filename=/usr/share/texmf/fonts/type1/fkr/tipa/xipx10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/xipx10.pfb usedmethod=direct
+used file       >  174: filename=lmvtlo10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmvtlo10.pfb usedmethod=database
+used file       >  175: filename=lmtk10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmtk10.pfb usedmethod=database
+used file       >  176: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxbx8.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxbx8.pfb usedmethod=direct
+used file       >  177: filename=qhvcr.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qhvcr.pfb usedmethod=database
+used file       >  178: filename=qhvcb.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qhvcb.pfb usedmethod=database
+used file       >  179: filename=qagr.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qagr.pfb usedmethod=database
+used file       >  180: filename=qcsb.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qcsb.pfb usedmethod=database
+used file       >  181: filename=qcsbi.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qcsbi.pfb usedmethod=database
+used file       >  182: filename=lmbx7.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmbx7.pfb usedmethod=database
+used file       >  183: filename=qagri.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qagri.pfb usedmethod=database
+used file       >  184: filename=lmri12.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmri12.pfb usedmethod=database
+used file       >  185: filename=lmtko10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmtko10.pfb usedmethod=database
+used file       >  186: filename=lmssqbx8.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmssqbx8.pfb usedmethod=database
+used file       >  187: filename=lmssq8.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmssq8.pfb usedmethod=database
+used file       >  188: filename=lmsso9.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmsso9.pfb usedmethod=database
+used file       >  189: filename=lmro9.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmro9.pfb usedmethod=database
+used file       >  190: filename=lmro17.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmro17.pfb usedmethod=database
+used file       >  191: filename=lmro12.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmro12.pfb usedmethod=database
+used file       >  192: filename=lmr8.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmr8.pfb usedmethod=database
+used file       >  193: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxss8.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxss8.pfb usedmethod=direct
+used file       >  194: filename=lmmib5.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmmib5.pfb usedmethod=database
+used file       >  195: filename=lmbsy7.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmbsy7.pfb usedmethod=database
+used file       >  196: filename=lmbsy10.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmbsy10.pfb usedmethod=database
+used file       >  197: filename=lmsy8.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb usedmethod=database
+used file       >  198: filename=qhvri.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/tex-gyre/qhvri.pfb usedmethod=database
+used file       >  199: filename=/usr/share/texmf/fonts/type1/fkr/tipa/tipxsb10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/tipxsb10.pfb usedmethod=direct
+used file       >  200: filename=/usr/share/texmf/fonts/type1/fkr/tipa/xipxsb10.pfb format=pfb foundname=/usr/share/texmf/fonts/type1/fkr/tipa/xipxsb10.pfb usedmethod=direct
+used file       >  201: filename=lmmi5.pfb filetype=pfb format=pfb foundname=/usr/share/texmf/fonts/type1/public/lm/lmmi5.pfb usedmethod=database
+used file       >  202: filename=cmfib8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmfib8.pfb usedmethod=database
+used file       >  203: filename=cmssqi8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssqi8.pfb usedmethod=database
+used file       >  204: filename=uhvbo8ac.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvbo8ac.pfb usedmethod=database
+used file       >  205: filename=msam7.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb usedmethod=database
+used file       >  206: filename=cmtt12.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb usedmethod=database
+used file       >  207: filename=cmssdc10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssdc10.pfb usedmethod=database
+used file       >  208: filename=eufb5.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eufb5.pfb usedmethod=database
+used file       >  209: filename=cmr9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb usedmethod=database
+used file       >  210: filename=cmex8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb usedmethod=database
+used file       >  211: filename=cmssq8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssq8.pfb usedmethod=database
+used file       >  212: filename=cmr5.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb usedmethod=database
+used file       >  213: filename=eusb7.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eusb7.pfb usedmethod=database
+used file       >  214: filename=cmtt8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb usedmethod=database
+used file       >  215: filename=cmbsy5.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmbsy5.pfb usedmethod=database
+used file       >  216: filename=cmti12.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb usedmethod=database
+used file       >  217: filename=t1xttsc.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/t1xttsc.pfb usedmethod=database
+used file       >  218: filename=putri8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/adobe/utopia/putri8a.pfb usedmethod=database
+used file       >  219: filename=euex8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/euex8.pfb usedmethod=database
+used file       >  220: filename=rtxbsc.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxbsc.pfb usedmethod=database
+used file       >  221: filename=xycmbt10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xycmbt10.pfb usedmethod=database
+used file       >  222: filename=tcxtt.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/tcxtt.pfb usedmethod=database
+used file       >  223: filename=cmsy9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb usedmethod=database
+used file       >  224: filename=cmss8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb usedmethod=database
+used file       >  225: filename=xyluat11.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xyluat11.pfb usedmethod=database
+used file       >  226: filename=cmsy7.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb usedmethod=database
+used file       >  227: filename=knitwg.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/knitting/knitwg.pfb usedmethod=database
+used file       >  228: filename=rpxbi.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/rpxbi.pfb usedmethod=database
+used file       >  229: filename=lcirclew.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb usedmethod=database
+used file       >  230: filename=logosl8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/hoekwater/mflogo-font/logosl8.pfb usedmethod=database
+used file       >  231: filename=cmssi10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb usedmethod=database
+used file       >  232: filename=rtxbi.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxbi.pfb usedmethod=database
+used file       >  233: filename=uhvro8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb usedmethod=database
+used file       >  234: filename=pxbsya.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/pxbsya.pfb usedmethod=database
+used file       >  235: filename=xydash10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xydash10.pfb usedmethod=database
+used file       >  236: filename=fplmr.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/mathpazo/fplmr.pfb usedmethod=database
+used file       >  237: filename=cmr12.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb usedmethod=database
+used file       >  238: filename=cmbsy9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmbsy9.pfb usedmethod=database
+used file       >  239: filename=cmr17.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb usedmethod=database
+used file       >  240: filename=cmmi8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb usedmethod=database
+used file       >  241: filename=fplrij8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb usedmethod=database
+used file       >  242: filename=msbm6.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm6.pfb usedmethod=database
+used file       >  243: filename=wasy9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/wasy2-ps/wasy9.pfb usedmethod=database
+used file       >  244: filename=knitgp.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/knitting/knitgp.pfb usedmethod=database
+used file       >  245: filename=bchri8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/bitstrea/charter/bchri8a.pfb usedmethod=database
+used file       >  246: filename=cmtex10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtex10.pfb usedmethod=database
+used file       >  247: filename=cmsl9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl9.pfb usedmethod=database
+used file       >  248: filename=cmbx9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb usedmethod=database
+used file       >  249: filename=cmr10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb usedmethod=database
+used file       >  250: filename=rpcxr.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/rpcxr.pfb usedmethod=database
+used file       >  251: filename=cmtt10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb usedmethod=database
+used file       >  252: filename=cmsy5.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb usedmethod=database
+used file       >  253: filename=knitn_sc_in.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/knitting/knitn_sc_in.pfb usedmethod=database
+used file       >  254: filename=cmmib5.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib5.pfb usedmethod=database
+used file       >  255: filename=cmb10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmb10.pfb usedmethod=database
+used file       >  256: filename=cmbsy6.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmbsy6.pfb usedmethod=database
+used file       >  257: filename=txsyc.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsyc.pfb usedmethod=database
+used file       >  258: filename=bchb8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb usedmethod=database
+used file       >  259: filename=msam6.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam6.pfb usedmethod=database
+used file       >  260: filename=rtcxr.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtcxr.pfb usedmethod=database
+used file       >  261: filename=knitw_sc_out.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/knitting/knitw_sc_out.pfb usedmethod=database
+used file       >  262: filename=lasy7.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lasy7.pfb usedmethod=database
+used file       >  263: filename=cmtcsc10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtcsc10.pfb usedmethod=database
+used file       >  264: filename=cmr6.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb usedmethod=database
+used file       >  265: filename=lasyb10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lasyb10.pfb usedmethod=database
+used file       >  266: filename=cmbxsl10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxsl10.pfb usedmethod=database
+used file       >  267: filename=txbtt.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txbtt.pfb usedmethod=database
+used file       >  268: filename=cmss17.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb usedmethod=database
+used file       >  269: filename=cmvtt10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmvtt10.pfb usedmethod=database
+used file       >  270: filename=wncyb10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cyrillic/wncyb10.pfb usedmethod=database
+used file       >  271: filename=cmcsc9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmcsc9.pfb usedmethod=database
+used file       >  272: filename=msbm9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm9.pfb usedmethod=database
+used file       >  273: filename=cmfi10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmfi10.pfb usedmethod=database
+used file       >  274: filename=rpxb.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/rpxb.pfb usedmethod=database
+used file       >  275: filename=logo8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/hoekwater/mflogo-font/logo8.pfb usedmethod=database
+used file       >  276: filename=rtxb.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb usedmethod=database
+used file       >  277: filename=pcrro8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/adobe/courier/pcrro8a.pfb usedmethod=database
+used file       >  278: filename=uhvr8ac.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8ac.pfb usedmethod=database
+used file       >  279: filename=cmss12.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb usedmethod=database
+used file       >  280: filename=cmdunh10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmdunh10.pfb usedmethod=database
+used file       >  281: filename=pxsya.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/pxsya.pfb usedmethod=database
+used file       >  282: filename=cmti10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb usedmethod=database
 used file       >  283: filename=cmmi9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb usedmethod=database
-used file       >  284: filename=cmti8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb usedmethod=database
-used file       >  285: filename=eufb5.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eufb5.pfb usedmethod=database
-used file       >  286: filename=wasyb10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/wasy2-ps/wasyb10.pfb usedmethod=database
-used file       >  287: filename=lasyb10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lasyb10.pfb usedmethod=database
-used file       >  288: filename=cmr6.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb usedmethod=database
-used file       >  289: filename=eurb5.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eurb5.pfb usedmethod=database
-used file       >  290: filename=wncyss10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cyrillic/wncyss10.pfb usedmethod=database
-used file       >  291: filename=eusb10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eusb10.pfb usedmethod=database
-used file       >  292: filename=lcirclew.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb usedmethod=database
-used file       >  293: filename=rtxsssc.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxsssc.pfb usedmethod=database
-used file       >  294: filename=cmmib9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib9.pfb usedmethod=database
-used file       >  295: filename=cmfi10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmfi10.pfb usedmethod=database
-used file       >  296: filename=wncyr10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cyrillic/wncyr10.pfb usedmethod=database
-used file       >  297: filename=cmitt10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmitt10.pfb usedmethod=database
-used file       >  298: filename=pcrr8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/adobe/courier/pcrr8a.pfb usedmethod=database
-used file       >  299: filename=ucrr8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb usedmethod=database
-used file       >  300: filename=cmmib5.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib5.pfb usedmethod=database
-used file       >  301: filename=uhvr8ac.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8ac.pfb usedmethod=database
-used file       >  302: filename=logo8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/hoekwater/mflogo-font/logo8.pfb usedmethod=database
-used file       >  303: filename=txexa.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txexa.pfb usedmethod=database
-used file       >  304: filename=pxexa.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/pxexa.pfb usedmethod=database
-used file       >  305: filename=knitwn.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/knitting/knitwn.pfb usedmethod=database
-used file       >  306: filename=cmcsc10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb usedmethod=database
-used file       >  307: filename=rtxsc.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxsc.pfb usedmethod=database
-used file       >  308: filename=msam9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam9.pfb usedmethod=database
-used file       >  309: filename=cmsy5.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb usedmethod=database
-used file       >  310: filename=txsyc.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsyc.pfb usedmethod=database
-used file       >  311: filename=marvosym.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb usedmethod=database
-used file       >  312: filename=rtxbss.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxbss.pfb usedmethod=database
-used file       >  313: filename=txbsya.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txbsya.pfb usedmethod=database
-used file       >  314: filename=pxbsya.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/pxbsya.pfb usedmethod=database
-used file       >  315: filename=cmmi7.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb usedmethod=database
-used file       >  316: filename=utmb8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb usedmethod=database
-used file       >  317: filename=uzdr.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb usedmethod=database
-used file       >  318: filename=xylubt12.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xylubt12.pfb usedmethod=database
-used file       >  319: filename=xylubt11.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xylubt11.pfb usedmethod=database
-used file       >  320: filename=xylubt10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xylubt10.pfb usedmethod=database
-used file       >  321: filename=eufm5.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eufm5.pfb usedmethod=database
+used file       >  284: filename=xyeuat12.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xyeuat12.pfb usedmethod=database
+used file       >  285: filename=cmbsy7.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmbsy7.pfb usedmethod=database
+used file       >  286: filename=eurb5.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eurb5.pfb usedmethod=database
+used file       >  287: filename=uhvr8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb usedmethod=database
+used file       >  288: filename=cmr7.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb usedmethod=database
+used file       >  289: filename=eusb10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eusb10.pfb usedmethod=database
+used file       >  290: filename=cmmi12.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb usedmethod=database
+used file       >  291: filename=xyeubt12.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xyeubt12.pfb usedmethod=database
+used file       >  292: filename=putr8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb usedmethod=database
+used file       >  293: filename=cmss10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb usedmethod=database
+used file       >  294: filename=knitnr.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/knitting/knitnr.pfb usedmethod=database
+used file       >  295: filename=fplmri.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb usedmethod=database
+used file       >  296: filename=eurb10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eurb10.pfb usedmethod=database
+used file       >  297: filename=wncyss10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cyrillic/wncyss10.pfb usedmethod=database
+used file       >  298: filename=eufb7.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eufb7.pfb usedmethod=database
+used file       >  299: filename=cmbx5.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx5.pfb usedmethod=database
+used file       >  300: filename=knitw_sc_in.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/knitting/knitw_sc_in.pfb usedmethod=database
+used file       >  301: filename=rtcxi.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtcxi.pfb usedmethod=database
+used file       >  302: filename=putb8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb usedmethod=database
+used file       >  303: filename=eufm10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eufm10.pfb usedmethod=database
+used file       >  304: filename=cmmi10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb usedmethod=database
+used file       >  305: filename=rpxbmi.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/rpxbmi.pfb usedmethod=database
+used file       >  306: filename=cmtt9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb usedmethod=database
+used file       >  307: filename=uncb8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/ncntrsbk/uncb8a.pfb usedmethod=database
+used file       >  308: filename=xycirc10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xycirc10.pfb usedmethod=database
+used file       >  309: filename=rsfs5.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/rsfs/rsfs5.pfb usedmethod=database
+used file       >  310: filename=utmri8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb usedmethod=database
+used file       >  311: filename=logobf10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/hoekwater/mflogo-font/logobf10.pfb usedmethod=database
+used file       >  312: filename=cmbx10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb usedmethod=database
+used file       >  313: filename=knitg_sc_in.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/knitting/knitg_sc_in.pfb usedmethod=database
+used file       >  314: filename=eurm10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb usedmethod=database
+used file       >  315: filename=cmbsy8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmbsy8.pfb usedmethod=database
+used file       >  316: filename=xylubt10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xylubt10.pfb usedmethod=database
+used file       >  317: filename=pxex.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/pxex.pfb usedmethod=database
+used file       >  318: filename=cminch.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cminch.pfb usedmethod=database
+used file       >  319: filename=cmsltt10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsltt10.pfb usedmethod=database
+used file       >  320: filename=xylubt12.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xylubt12.pfb usedmethod=database
+used file       >  321: filename=xylubt11.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xylubt11.pfb usedmethod=database
 used file       >  322: filename=xyluat12.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xyluat12.pfb usedmethod=database
-used file       >  323: filename=xyluat11.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xyluat11.pfb usedmethod=database
-used file       >  324: filename=xyluat10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xyluat10.pfb usedmethod=database
-used file       >  325: filename=xyeubt12.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xyeubt12.pfb usedmethod=database
+used file       >  323: filename=xyluat10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xyluat10.pfb usedmethod=database
+used file       >  324: filename=txexa.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txexa.pfb usedmethod=database
+used file       >  325: filename=xyeubt11.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xyeubt11.pfb usedmethod=database
 used file       >  326: filename=xyeubt10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xyeubt10.pfb usedmethod=database
-used file       >  327: filename=xyeuat12.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xyeuat12.pfb usedmethod=database
-used file       >  328: filename=xyeuat11.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xyeuat11.pfb usedmethod=database
-used file       >  329: filename=xyeuat10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xyeuat10.pfb usedmethod=database
-used file       >  330: filename=xycmbt12.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xycmbt12.pfb usedmethod=database
-used file       >  331: filename=xycmbt11.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xycmbt11.pfb usedmethod=database
-used file       >  332: filename=msbm7.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb usedmethod=database
-used file       >  333: filename=xycmbt10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xycmbt10.pfb usedmethod=database
-used file       >  334: filename=xycmat12.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xycmat12.pfb usedmethod=database
-used file       >  335: filename=xycmat11.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xycmat11.pfb usedmethod=database
-used file       >  336: filename=xycmat10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xycmat10.pfb usedmethod=database
-used file       >  337: filename=cmmib7.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib7.pfb usedmethod=database
-used file       >  338: filename=xycirc10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xycirc10.pfb usedmethod=database
-used file       >  339: filename=xybtip10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xybtip10.pfb usedmethod=database
-used file       >  340: filename=xyatip10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xyatip10.pfb usedmethod=database
-used file       >  341: filename=knitg_sc_out.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/knitting/knitg_sc_out.pfb usedmethod=database
-used file       >  342: filename=cmbx12.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb usedmethod=database
-used file       >  343: filename=uagd8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/avantgar/uagd8a.pfb usedmethod=database
-used file       >  344: filename=wncyi10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cyrillic/wncyi10.pfb usedmethod=database
-used file       >  345: filename=wncyb10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cyrillic/wncyb10.pfb usedmethod=database
-used file       >  346: filename=knitn_sc_in.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/knitting/knitn_sc_in.pfb usedmethod=database
-used file       >  347: filename=wasy9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/wasy2-ps/wasy9.pfb usedmethod=database
-used file       >  348: filename=wasy8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/wasy2-ps/wasy8.pfb usedmethod=database
-used file       >  349: filename=wasy6.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/wasy2-ps/wasy6.pfb usedmethod=database
-used file       >  350: filename=wasy5.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/wasy2-ps/wasy5.pfb usedmethod=database
-used file       >  351: filename=wasy10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/wasy2-ps/wasy10.pfb usedmethod=database
-used file       >  352: filename=cmssdc10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssdc10.pfb usedmethod=database
-used file       >  353: filename=txbttsc.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txbttsc.pfb usedmethod=database
-used file       >  354: filename=cmsy6.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb usedmethod=database
-used file       >  355: filename=msbm9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm9.pfb usedmethod=database
-used file       >  356: filename=utmbi8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb usedmethod=database
-used file       >  357: filename=uzcmi8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/zapfchan/uzcmi8a.pfb usedmethod=database
-used file       >  358: filename=utmri8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb usedmethod=database
-used file       >  359: filename=eusm7.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eusm7.pfb usedmethod=database
-used file       >  360: filename=usyr.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb usedmethod=database
-used file       >  361: filename=uplr8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb usedmethod=database
-used file       >  362: filename=uplbi8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb usedmethod=database
-used file       >  363: filename=utmr8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb usedmethod=database
-used file       >  364: filename=uplb8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb usedmethod=database
-used file       >  365: filename=uhvb8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb usedmethod=database
-used file       >  366: filename=cmb10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmb10.pfb usedmethod=database
-used file       >  367: filename=fplmr.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/mathpazo/fplmr.pfb usedmethod=database
-used file       >  368: filename=uagdo8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/avantgar/uagdo8a.pfb usedmethod=database
-used file       >  369: filename=uncr8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/ncntrsbk/uncr8a.pfb usedmethod=database
-used file       >  370: filename=uncri8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/ncntrsbk/uncri8a.pfb usedmethod=database
-used file       >  371: filename=uncbi8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/ncntrsbk/uncbi8a.pfb usedmethod=database
-used file       >  372: filename=uncb8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/ncntrsbk/uncb8a.pfb usedmethod=database
-used file       >  373: filename=uhvro8ac.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8ac.pfb usedmethod=database
-used file       >  374: filename=uhvro8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb usedmethod=database
-used file       >  375: filename=uhvr8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb usedmethod=database
-used file       >  376: filename=uhvbo8ac.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvbo8ac.pfb usedmethod=database
-used file       >  377: filename=uhvbo8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb usedmethod=database
-used file       >  378: filename=uhvb8ac.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8ac.pfb usedmethod=database
-used file       >  379: filename=cminch.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cminch.pfb usedmethod=database
-used file       >  380: filename=cmti9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb usedmethod=database
-used file       >  381: filename=ucrbo8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrbo8a.pfb usedmethod=database
-used file       >  382: filename=ucrb8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb usedmethod=database
-used file       >  383: filename=cmbx6.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb usedmethod=database
-used file       >  384: filename=cmtex8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtex8.pfb usedmethod=database
-used file       >  385: filename=ubkd8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb usedmethod=database
-used file       >  386: filename=knitwg.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/knitting/knitwg.pfb usedmethod=database
-used file       >  387: filename=rpcxi.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/rpcxi.pfb usedmethod=database
-used file       >  388: filename=eurm7.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eurm7.pfb usedmethod=database
-used file       >  389: filename=uagko8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/avantgar/uagko8a.pfb usedmethod=database
-used file       >  390: filename=uagk8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/avantgar/uagk8a.pfb usedmethod=database
-used file       >  391: filename=bchb8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb usedmethod=database
-used file       >  392: filename=rsfs10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/rsfs/rsfs10.pfb usedmethod=database
-used file       >  393: filename=rtcxb.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtcxb.pfb usedmethod=database
-used file       >  394: filename=txttsc.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txttsc.pfb usedmethod=database
-used file       >  395: filename=txsyb.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsyb.pfb usedmethod=database
-used file       >  396: filename=logo9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/hoekwater/mflogo-font/logo9.pfb usedmethod=database
-used file       >  397: filename=txbexa.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txbexa.pfb usedmethod=database
-used file       >  398: filename=txbex.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txbex.pfb usedmethod=database
-used file       >  399: filename=cmsy9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb usedmethod=database
-used file       >  400: filename=ucrro8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrro8a.pfb usedmethod=database
-used file       >  401: filename=pcrro8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/adobe/courier/pcrro8a.pfb usedmethod=database
-used file       >  402: filename=eurb7.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eurb7.pfb usedmethod=database
-used file       >  403: filename=cmex10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb usedmethod=database
-used file       >  404: filename=tcxtt.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/tcxtt.pfb usedmethod=database
-used file       >  405: filename=cmbxti10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb usedmethod=database
-used file       >  406: filename=eurb10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eurb10.pfb usedmethod=database
-used file       >  407: filename=knitnn.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/knitting/knitnn.pfb usedmethod=database
-used file       >  408: filename=logo10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/hoekwater/mflogo-font/logo10.pfb usedmethod=database
-used file       >  409: filename=euex10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/euex10.pfb usedmethod=database
-used file       >  410: filename=cmbsy6.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmbsy6.pfb usedmethod=database
-used file       >  411: filename=cmti12.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb usedmethod=database
-used file       >  412: filename=knitw_sc_out.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/knitting/knitw_sc_out.pfb usedmethod=database
-used file       >  413: filename=lasy10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lasy10.pfb usedmethod=database
-used file       >  414: filename=cmsl9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl9.pfb usedmethod=database
-used file       >  415: filename=cmfib8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmfib8.pfb usedmethod=database
-used file       >  416: filename=cmssq8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssq8.pfb usedmethod=database
-used file       >  417: filename=knitgn.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/knitting/knitgn.pfb usedmethod=database
-used file       >  418: filename=cmbsy10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb usedmethod=database
-used file       >  419: filename=cmsy10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb usedmethod=database
-used file       >  420: filename=knitg_sc_in.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/knitting/knitg_sc_in.pfb usedmethod=database
-used file       >  421: filename=line10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/line10.pfb usedmethod=database
-used file       >  422: filename=t1xtt.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb usedmethod=database
-used file       >  423: filename=t1xbttsc.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/t1xbttsc.pfb usedmethod=database
-used file       >  424: filename=t1xbtt.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/t1xbtt.pfb usedmethod=database
-used file       >  425: filename=fplmbi.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/mathpazo/fplmbi.pfb usedmethod=database
-used file       >  426: filename=txbmia.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txbmia.pfb usedmethod=database
-used file       >  427: filename=cmbxsl10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxsl10.pfb usedmethod=database
-used file       >  428: filename=cmu10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmu10.pfb usedmethod=database
-used file       >  429: filename=eusb7.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eusb7.pfb usedmethod=database
-used file       >  430: filename=manfnt.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/hoekwater/manfnt-font/manfnt.pfb usedmethod=database
-used file       >  431: filename=cmcsc8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmcsc8.pfb usedmethod=database
-used file       >  432: filename=cmtt9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb usedmethod=database
-used file       >  433: filename=ubkli8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkli8a.pfb usedmethod=database
-used file       >  434: filename=msbm5.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm5.pfb usedmethod=database
-used file       >  435: filename=uplri8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb usedmethod=database
-used file       >  436: filename=rsfs7.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/rsfs/rsfs7.pfb usedmethod=database
-used file       >  437: filename=cmss17.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb usedmethod=database
-used file       >  438: filename=pxex.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/pxex.pfb usedmethod=database
-used file       >  439: filename=txex.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txex.pfb usedmethod=database
-used file       >  440: filename=cmvtt10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmvtt10.pfb usedmethod=database
-used file       >  441: filename=rtxr.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb usedmethod=database
-used file       >  442: filename=rtxbsssc.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxbsssc.pfb usedmethod=database
-used file       >  443: filename=rtxbmi.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxbmi.pfb usedmethod=database
-used file       >  444: filename=rtxbi.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxbi.pfb usedmethod=database
-used file       >  445: filename=rtxb.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb usedmethod=database
-used file       >  446: filename=cmr9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb usedmethod=database
-used file       >  447: filename=rtcxss.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtcxss.pfb usedmethod=database
-used file       >  448: filename=rtcxi.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtcxi.pfb usedmethod=database
-used file       >  449: filename=knitw_sc_in.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/knitting/knitw_sc_in.pfb usedmethod=database
-used file       >  450: filename=rpxsc.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/rpxsc.pfb usedmethod=database
-used file       >  451: filename=cmdunh10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmdunh10.pfb usedmethod=database
-used file       >  452: filename=rpxmi.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/rpxmi.pfb usedmethod=database
-used file       >  453: filename=rpxb.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/rpxb.pfb usedmethod=database
-used file       >  454: filename=rpcxbi.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/rpcxbi.pfb usedmethod=database
-used file       >  455: filename=rpxr.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/rpxr.pfb usedmethod=database
-used file       >  456: filename=cmssi12.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb usedmethod=database
-used file       >  457: filename=cmex8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb usedmethod=database
-used file       >  458: filename=lcmss8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcmss8.pfb usedmethod=database
-used file       >  459: filename=cmtex9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtex9.pfb usedmethod=database
-used file       >  460: filename=pxsyc.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/pxsyc.pfb usedmethod=database
-used file       >  461: filename=pxbsyc.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/pxbsyc.pfb usedmethod=database
-used file       >  462: filename=fplrc8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb usedmethod=database
-used file       >  463: filename=pxbsy.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/pxbsy.pfb usedmethod=database
-used file       >  464: filename=pxbmia.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/pxbmia.pfb usedmethod=database
-used file       >  465: filename=pxbexa.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/pxbexa.pfb usedmethod=database
-used file       >  466: filename=pxbex.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/pxbex.pfb usedmethod=database
-used file       >  467: filename=putr8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb usedmethod=database
-used file       >  468: filename=putbi8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/adobe/utopia/putbi8a.pfb usedmethod=database
-used file       >  469: filename=putb8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb usedmethod=database
-used file       >  470: filename=txbsyc.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txbsyc.pfb usedmethod=database
-used file       >  471: filename=cmbx7.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb usedmethod=database
-used file       >  472: filename=rpxi.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/rpxi.pfb usedmethod=database
-used file       >  473: filename=cmbx9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb usedmethod=database
-used file       >  474: filename=cmmi8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb usedmethod=database
-used file       >  475: filename=rtxi.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxi.pfb usedmethod=database
-used file       >  476: filename=fplbij8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/fpl/fplbij8a.pfb usedmethod=database
-used file       >  477: filename=lcmssb8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcmssb8.pfb usedmethod=database
-used file       >  478: filename=bchr8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb usedmethod=database
-used file       >  479: filename=lasy9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lasy9.pfb usedmethod=database
-used file       >  480: filename=knitnl.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/knitting/knitnl.pfb usedmethod=database
-used file       >  481: filename=euex8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/euex8.pfb usedmethod=database
-used file       >  482: filename=pcrb8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/adobe/courier/pcrb8a.pfb usedmethod=database
-used file       >  483: filename=eusm5.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eusm5.pfb usedmethod=database
-used file       >  484: filename=euex7.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/euex7.pfb usedmethod=database
-used file       >  485: filename=cmr10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb usedmethod=database
-used file       >  486: filename=msbm10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb usedmethod=database
-used file       >  487: filename=msbm6.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm6.pfb usedmethod=database
-used file       >  488: filename=cmex7.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pfb usedmethod=database
-used file       >  489: filename=cmbx5.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx5.pfb usedmethod=database
-used file       >  490: filename=msbm8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm8.pfb usedmethod=database
-used file       >  491: filename=msam7.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb usedmethod=database
-used file       >  492: filename=msam6.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam6.pfb usedmethod=database
-used file       >  493: filename=msam5.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam5.pfb usedmethod=database
-used file       >  494: filename=msam10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb usedmethod=database
-used file       >  495: filename=cmmi12.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb usedmethod=database
-used file       >  496: filename=cmsl10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb usedmethod=database
-used file       >  497: filename=knitn_sc_out.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/knitting/knitn_sc_out.pfb usedmethod=database
-used file       >  498: filename=logod10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/hoekwater/mflogo-font/logod10.pfb usedmethod=database
-used file       >  499: filename=ubkdi8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkdi8a.pfb usedmethod=database
-used file       >  500: filename=logosl8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/hoekwater/mflogo-font/logosl8.pfb usedmethod=database
-used file       >  501: filename=cmss9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb usedmethod=database
-used file       >  502: filename=cmsl12.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb usedmethod=database
-used file       >  503: filename=lcmssi8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcmssi8.pfb usedmethod=database
-used file       >  504: filename=lasy6.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lasy6.pfb usedmethod=database
-used file       >  505: filename=lasy5.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lasy5.pfb usedmethod=database
-used file       >  506: filename=knitgg.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/knitting/knitgg.pfb usedmethod=database
-used file       >  507: filename=knitnr.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/knitting/knitnr.pfb usedmethod=database
-used file       >  508: filename=knitgp.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/knitting/knitgp.pfb usedmethod=database
-used file       >  509: filename=cmssi10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb usedmethod=database
-used file       >  510: filename=txtt.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txtt.pfb usedmethod=database
-used file       >  511: filename=eurm5.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eurm5.pfb usedmethod=database
-used file       >  512: filename=cmssi17.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi17.pfb usedmethod=database
-used file       >  513: filename=rpxbi.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/rpxbi.pfb usedmethod=database
-used file       >  514: filename=cmmi10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb usedmethod=database
-used file       >  515: filename=xydash10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xydash10.pfb usedmethod=database
-used file       >  516: filename=cmbsy9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmbsy9.pfb usedmethod=database
-used file       >  517: filename=pxsya.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/pxsya.pfb usedmethod=database
-used file       >  518: filename=txsya.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsya.pfb usedmethod=database
-used file       >  519: filename=cmbx10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb usedmethod=database
-used file       >  520: filename=eusb5.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eusb5.pfb usedmethod=database
-used file       >  521: filename=eufm7.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eufm7.pfb usedmethod=database
-used file       >  522: filename=eufm10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eufm10.pfb usedmethod=database
-used file       >  523: filename=logosl10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/hoekwater/mflogo-font/logosl10.pfb usedmethod=database
-used file       >  524: filename=cmti7.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb usedmethod=database
-used file       >  525: filename=cmtex10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtex10.pfb usedmethod=database
-used file       >  526: filename=cmssbx10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb usedmethod=database
+used file       >  327: filename=xyeuat11.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xyeuat11.pfb usedmethod=database
+used file       >  328: filename=xyeuat10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xyeuat10.pfb usedmethod=database
+used file       >  329: filename=xybsql10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xybsql10.pfb usedmethod=database
+used file       >  330: filename=xycmbt11.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xycmbt11.pfb usedmethod=database
+used file       >  331: filename=cmssi8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb usedmethod=database
+used file       >  332: filename=xycmat12.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xycmat12.pfb usedmethod=database
+used file       >  333: filename=xycmat11.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xycmat11.pfb usedmethod=database
+used file       >  334: filename=xybtip10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xybtip10.pfb usedmethod=database
+used file       >  335: filename=cmff10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmff10.pfb usedmethod=database
+used file       >  336: filename=cmbsy10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb usedmethod=database
+used file       >  337: filename=pxbsyc.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/pxbsyc.pfb usedmethod=database
+used file       >  338: filename=txbexa.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txbexa.pfb usedmethod=database
+used file       >  339: filename=pxbexa.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/pxbexa.pfb usedmethod=database
+used file       >  340: filename=cmssi12.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb usedmethod=database
+used file       >  341: filename=wncyr10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cyrillic/wncyr10.pfb usedmethod=database
+used file       >  342: filename=wncyi10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cyrillic/wncyi10.pfb usedmethod=database
+used file       >  343: filename=fplbij8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/fpl/fplbij8a.pfb usedmethod=database
+used file       >  344: filename=knitwn.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/knitting/knitwn.pfb usedmethod=database
+used file       >  345: filename=cmmib6.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib6.pfb usedmethod=database
+used file       >  346: filename=wasyb10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/wasy2-ps/wasyb10.pfb usedmethod=database
+used file       >  347: filename=wasy7.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/wasy2-ps/wasy7.pfb usedmethod=database
+used file       >  348: filename=wasy6.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/wasy2-ps/wasy6.pfb usedmethod=database
+used file       >  349: filename=wasy5.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/wasy2-ps/wasy5.pfb usedmethod=database
+used file       >  350: filename=rpxr.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/rpxr.pfb usedmethod=database
+used file       >  351: filename=uhvb8ac.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8ac.pfb usedmethod=database
+used file       >  352: filename=lcmss8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcmss8.pfb usedmethod=database
+used file       >  353: filename=uzdr.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb usedmethod=database
+used file       >  354: filename=uhvb8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb usedmethod=database
+used file       >  355: filename=ubkdi8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkdi8a.pfb usedmethod=database
+used file       >  356: filename=uzcmi8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/zapfchan/uzcmi8a.pfb usedmethod=database
+used file       >  357: filename=pxbex.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/pxbex.pfb usedmethod=database
+used file       >  358: filename=pxbsy.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/pxbsy.pfb usedmethod=database
+used file       >  359: filename=utmbi8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb usedmethod=database
+used file       >  360: filename=utmb8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb usedmethod=database
+used file       >  361: filename=usyr.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb usedmethod=database
+used file       >  362: filename=rsfs7.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/rsfs/rsfs7.pfb usedmethod=database
+used file       >  363: filename=uplri8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb usedmethod=database
+used file       >  364: filename=uplbi8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb usedmethod=database
+used file       >  365: filename=cmsy10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb usedmethod=database
+used file       >  366: filename=cmsl8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl8.pfb usedmethod=database
+used file       >  367: filename=cmbx6.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb usedmethod=database
+used file       >  368: filename=rpcxi.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/rpcxi.pfb usedmethod=database
+used file       >  369: filename=knitn_sc_out.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/knitting/knitn_sc_out.pfb usedmethod=database
+used file       >  370: filename=txsyb.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsyb.pfb usedmethod=database
+used file       >  371: filename=txbsyb.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txbsyb.pfb usedmethod=database
+used file       >  372: filename=uhvbo8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb usedmethod=database
+used file       >  373: filename=uncri8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/ncntrsbk/uncri8a.pfb usedmethod=database
+used file       >  374: filename=uncr8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/ncntrsbk/uncr8a.pfb usedmethod=database
+used file       >  375: filename=uncbi8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/ncntrsbk/uncbi8a.pfb usedmethod=database
+used file       >  376: filename=uagd8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/avantgar/uagd8a.pfb usedmethod=database
+used file       >  377: filename=rpxsc.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/rpxsc.pfb usedmethod=database
+used file       >  378: filename=uhvro8ac.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8ac.pfb usedmethod=database
+used file       >  379: filename=linew10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/linew10.pfb usedmethod=database
+used file       >  380: filename=cmmib8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib8.pfb usedmethod=database
+used file       >  381: filename=eurm7.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eurm7.pfb usedmethod=database
+used file       >  382: filename=cmtex9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtex9.pfb usedmethod=database
+used file       >  383: filename=ucrro8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrro8a.pfb usedmethod=database
+used file       >  384: filename=ucrr8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb usedmethod=database
+used file       >  385: filename=ucrb8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb usedmethod=database
+used file       >  386: filename=ubkli8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkli8a.pfb usedmethod=database
+used file       >  387: filename=cmsy6.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb usedmethod=database
+used file       >  388: filename=knitnp.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/knitting/knitnp.pfb usedmethod=database
+used file       >  389: filename=cmti7.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb usedmethod=database
+used file       >  390: filename=fplbj8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb usedmethod=database
+used file       >  391: filename=ubkd8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb usedmethod=database
+used file       >  392: filename=txttsc.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txttsc.pfb usedmethod=database
+used file       >  393: filename=uagko8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/avantgar/uagko8a.pfb usedmethod=database
+used file       >  394: filename=ucrbo8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrbo8a.pfb usedmethod=database
+used file       >  395: filename=cmti8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb usedmethod=database
+used file       >  396: filename=uagk8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/avantgar/uagk8a.pfb usedmethod=database
+used file       >  397: filename=euex7.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/euex7.pfb usedmethod=database
+used file       >  398: filename=cmbx12.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb usedmethod=database
+used file       >  399: filename=pxsy.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/pxsy.pfb usedmethod=database
+used file       >  400: filename=msam8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam8.pfb usedmethod=database
+used file       >  401: filename=txtt.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txtt.pfb usedmethod=database
+used file       >  402: filename=txsya.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsya.pfb usedmethod=database
+used file       >  403: filename=txsy.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb usedmethod=database
+used file       >  404: filename=txex.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txex.pfb usedmethod=database
+used file       >  405: filename=txbttsc.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txbttsc.pfb usedmethod=database
+used file       >  406: filename=txbsyc.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txbsyc.pfb usedmethod=database
+used file       >  407: filename=cmsl12.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb usedmethod=database
+used file       >  408: filename=txbsya.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txbsya.pfb usedmethod=database
+used file       >  409: filename=txbsy.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txbsy.pfb usedmethod=database
+used file       >  410: filename=txbex.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txbex.pfb usedmethod=database
+used file       >  411: filename=pcrr8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/adobe/courier/pcrr8a.pfb usedmethod=database
+used file       >  412: filename=msbm10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb usedmethod=database
+used file       >  413: filename=eusm10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eusm10.pfb usedmethod=database
+used file       >  414: filename=cmti9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb usedmethod=database
+used file       >  415: filename=cmmib10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb usedmethod=database
+used file       >  416: filename=cmr8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb usedmethod=database
+used file       >  417: filename=logod10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/hoekwater/mflogo-font/logod10.pfb usedmethod=database
+used file       >  418: filename=lasy10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lasy10.pfb usedmethod=database
+used file       >  419: filename=wasy10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/wasy2-ps/wasy10.pfb usedmethod=database
+used file       >  420: filename=cmex7.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pfb usedmethod=database
+used file       >  421: filename=msbm7.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb usedmethod=database
+used file       >  422: filename=logo10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/hoekwater/mflogo-font/logo10.pfb usedmethod=database
+used file       >  423: filename=tcxbtt.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/tcxbtt.pfb usedmethod=database
+used file       >  424: filename=eusm7.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eusm7.pfb usedmethod=database
+used file       >  425: filename=pxbsyb.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/pxbsyb.pfb usedmethod=database
+used file       >  426: filename=msbm8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm8.pfb usedmethod=database
+used file       >  427: filename=xyatip10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xyatip10.pfb usedmethod=database
+used file       >  428: filename=eurm5.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eurm5.pfb usedmethod=database
+used file       >  429: filename=rtxbmi.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxbmi.pfb usedmethod=database
+used file       >  430: filename=rtcxbi.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtcxbi.pfb usedmethod=database
+used file       >  431: filename=uagdo8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/avantgar/uagdo8a.pfb usedmethod=database
+used file       >  432: filename=t1xbttsc.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/t1xbttsc.pfb usedmethod=database
+used file       >  433: filename=t1xbtt.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/t1xbtt.pfb usedmethod=database
+used file       >  434: filename=fplmb.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/mathpazo/fplmb.pfb usedmethod=database
+used file       >  435: filename=uplb8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb usedmethod=database
+used file       >  436: filename=putbi8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/adobe/utopia/putbi8a.pfb usedmethod=database
+used file       >  437: filename=txbmia.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txbmia.pfb usedmethod=database
+used file       >  438: filename=fplrc8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb usedmethod=database
+used file       >  439: filename=eusb5.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eusb5.pfb usedmethod=database
+used file       >  440: filename=cmex9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex9.pfb usedmethod=database
+used file       >  441: filename=cmcsc10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb usedmethod=database
+used file       >  442: filename=lcircle1.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb usedmethod=database
+used file       >  443: filename=lcmssi8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcmssi8.pfb usedmethod=database
+used file       >  444: filename=rtxsssc.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxsssc.pfb usedmethod=database
+used file       >  445: filename=rtxss.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxss.pfb usedmethod=database
+used file       >  446: filename=rtxsc.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxsc.pfb usedmethod=database
+used file       >  447: filename=rtxr.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb usedmethod=database
+used file       >  448: filename=cmsl10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb usedmethod=database
+used file       >  449: filename=rtxmi.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb usedmethod=database
+used file       >  450: filename=rtxi.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxi.pfb usedmethod=database
+used file       >  451: filename=rtxbsssc.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxbsssc.pfb usedmethod=database
+used file       >  452: filename=rtxbss.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxbss.pfb usedmethod=database
+used file       >  453: filename=rtcxss.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtcxss.pfb usedmethod=database
+used file       >  454: filename=rtcxbss.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtcxbss.pfb usedmethod=database
+used file       >  455: filename=rtcxb.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtcxb.pfb usedmethod=database
+used file       >  456: filename=rpxi.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/rpxi.pfb usedmethod=database
+used file       >  457: filename=rpxbsc.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/rpxbsc.pfb usedmethod=database
+used file       >  458: filename=cmex10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb usedmethod=database
+used file       >  459: filename=rpcxbi.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/rpcxbi.pfb usedmethod=database
+used file       >  460: filename=rpcxb.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/rpcxb.pfb usedmethod=database
+used file       >  461: filename=xycmbt12.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xycmbt12.pfb usedmethod=database
+used file       >  462: filename=cmssbx10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb usedmethod=database
+used file       >  463: filename=cmitt10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmitt10.pfb usedmethod=database
+used file       >  464: filename=bchbi8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/bitstrea/charter/bchbi8a.pfb usedmethod=database
+used file       >  465: filename=pxsyc.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/pxsyc.pfb usedmethod=database
+used file       >  466: filename=pxsyb.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/pxsyb.pfb usedmethod=database
+used file       >  467: filename=pxexa.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/pxexa.pfb usedmethod=database
+used file       >  468: filename=pxbmia.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/pxbmia.pfb usedmethod=database
+used file       >  469: filename=euex10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/euex10.pfb usedmethod=database
+used file       >  470: filename=pcrb8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/adobe/courier/pcrb8a.pfb usedmethod=database
+used file       >  471: filename=cmmib9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib9.pfb usedmethod=database
+used file       >  472: filename=euex9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/euex9.pfb usedmethod=database
+used file       >  473: filename=lcmssb8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcmssb8.pfb usedmethod=database
+used file       >  474: filename=knitgg.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/knitting/knitgg.pfb usedmethod=database
+used file       >  475: filename=ubkl8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb usedmethod=database
+used file       >  476: filename=cmssi17.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi17.pfb usedmethod=database
+used file       >  477: filename=rpxmi.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/rpxmi.pfb usedmethod=database
+used file       >  478: filename=cmmi6.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb usedmethod=database
+used file       >  479: filename=cmssi9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb usedmethod=database
+used file       >  480: filename=eufb10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eufb10.pfb usedmethod=database
+used file       >  481: filename=logo9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/hoekwater/mflogo-font/logo9.pfb usedmethod=database
+used file       >  482: filename=cmmib7.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib7.pfb usedmethod=database
+used file       >  483: filename=cmbxti10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb usedmethod=database
+used file       >  484: filename=pcrbo8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/adobe/courier/pcrbo8a.pfb usedmethod=database
+used file       >  485: filename=pxmia.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/pxfonts/pxmia.pfb usedmethod=database
+used file       >  486: filename=txmia.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txmia.pfb usedmethod=database
+used file       >  487: filename=cmcsc8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmcsc8.pfb usedmethod=database
+used file       >  488: filename=wncysc10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cyrillic/wncysc10.pfb usedmethod=database
+used file       >  489: filename=uplr8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb usedmethod=database
+used file       >  490: filename=eufm7.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eufm7.pfb usedmethod=database
+used file       >  491: filename=eusm5.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eusm5.pfb usedmethod=database
+used file       >  492: filename=msbm5.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm5.pfb usedmethod=database
+used file       >  493: filename=msam9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam9.pfb usedmethod=database
+used file       >  494: filename=msam5.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam5.pfb usedmethod=database
+used file       >  495: filename=msam10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb usedmethod=database
+used file       >  496: filename=xycmat10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xycmat10.pfb usedmethod=database
+used file       >  497: filename=t1xtt.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb usedmethod=database
+used file       >  498: filename=cmtex8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtex8.pfb usedmethod=database
+used file       >  499: filename=manfnt.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/hoekwater/manfnt-font/manfnt.pfb usedmethod=database
+used file       >  500: filename=logosl9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/hoekwater/mflogo-font/logosl9.pfb usedmethod=database
+used file       >  501: filename=logosl10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/hoekwater/mflogo-font/logosl10.pfb usedmethod=database
+used file       >  502: filename=line10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/line10.pfb usedmethod=database
+used file       >  503: filename=lasy9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lasy9.pfb usedmethod=database
+used file       >  504: filename=lasy8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lasy8.pfb usedmethod=database
+used file       >  505: filename=lasy6.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lasy6.pfb usedmethod=database
+used file       >  506: filename=lasy5.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lasy5.pfb usedmethod=database
+used file       >  507: filename=knitwp.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/knitting/knitwp.pfb usedmethod=database
+used file       >  508: filename=knitnn.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/knitting/knitnn.pfb usedmethod=database
+used file       >  509: filename=knitnl.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/knitting/knitnl.pfb usedmethod=database
+used file       >  510: filename=knitgn.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/knitting/knitgn.pfb usedmethod=database
+used file       >  511: filename=knitg_sc_out.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/knitting/knitg_sc_out.pfb usedmethod=database
+used file       >  512: filename=cmu10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmu10.pfb usedmethod=database
+used file       >  513: filename=utmr8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb usedmethod=database
+used file       >  514: filename=fplmbi.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/mathpazo/fplmbi.pfb usedmethod=database
+used file       >  515: filename=fplmbb.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/mathpazo/fplmbb.pfb usedmethod=database
+used file       >  516: filename=marvosym.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb usedmethod=database
+used file       >  517: filename=cmbx7.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb usedmethod=database
+used file       >  518: filename=eurb7.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eurb7.pfb usedmethod=database
+used file       >  519: filename=eufm5.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eufm5.pfb usedmethod=database
+used file       >  520: filename=bchr8a.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb usedmethod=database
+used file       >  521: filename=wasy8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/wasy2-ps/wasy8.pfb usedmethod=database
+used file       >  522: filename=rsfs10.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/rsfs/rsfs10.pfb usedmethod=database
+used file       >  523: filename=cmsy8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb usedmethod=database
+used file       >  524: filename=cmss9.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb usedmethod=database
+used file       >  525: filename=cmmi5.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb usedmethod=database
+used file       >  526: filename=cmmi7.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb usedmethod=database
 used file       >  527: filename=cmbx8.pfb filetype=pfb format=pfb foundname=/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb usedmethod=database
 used file       >  528: filename=latinmodern-math.otf filetype=opentypefonts foundname=/usr/share/texmf/fonts/opentype/public/lm-math/latinmodern-math.otf usedmethod=database
 used file       >  529: filename=lpdf-pdx.xml filetype=tex foundname=/usr/share/texmf/tex/context/base/lpdf-pdx.xml usedmethod=database
@@ -1040,8 +1040,8 @@ system          > options > stop commandline files
 
 mkiv lua stats  > used config file: /usr/share/texmf/web2c/texmfcnf.lua;/usr/share/texlive/texmf-dist/web2c/texmfcnf.lua
 mkiv lua stats  > used cache path: readable: '/var/lib/texmf/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442' | readable+writable: '/home/travis/.texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442'
-mkiv lua stats  > resource resolver: loadtime 0.014 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 529 found files, scanned paths: <none>
-mkiv lua stats  > stored bytecode data: 371 modules (0.241 sec), 78 tables (0.008 sec), 449 chunks (0.249 sec)
+mkiv lua stats  > resource resolver: loadtime 0.016 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 529 found files, scanned paths: <none>
+mkiv lua stats  > stored bytecode data: 371 modules (0.237 sec), 78 tables (0.009 sec), 449 chunks (0.246 sec)
 mkiv lua stats  > traced context: maxstack: 1150, freed: 18, unreachable: 1132
 mkiv lua stats  > running in nuts mode: yes
 mkiv lua stats  > cleaned up reserved nodes: 53 nodes, 439 lists of 438
@@ -1055,11 +1055,11 @@ mkiv lua stats  > randomizer: resumed with value 0.98254495439238
 mkiv lua stats  > interactive elements: 25 references, 14 destinations
 mkiv lua stats  > result saved in file: web/index.pdf.pdf, compresslevel 3, objectcompresslevel 3
 mkiv lua stats  > loaded fonts: 1 files: latinmodern-math.otf
-mkiv lua stats  > fonts load time: 1.701 seconds 
+mkiv lua stats  > fonts load time: 1.832 seconds 
 mkiv lua stats  > pdf annotations: 25 links (25 unique), 0 special
 mkiv lua stats  > used platform: linux-64, type: unix, binary subtree: usr
 mkiv lua stats  > luatex banner: this is luatex, version beta-0.80.0 (tex live 2015/debian) (rev 5238)
 mkiv lua stats  > control sequences: 43436 of 65536 + 100000
-mkiv lua stats  > lua properties: engine: lua, used memory: 66 MB (ctx: 65 MB), hash type: lua, hash chars: min(64,40), symbol mask: utf (τεχ)
-mkiv lua stats  > runtime: 2.086 seconds, 3 processed pages, 3 shipped pages, 1.438 pages/second
+mkiv lua stats  > lua properties: engine: lua, used memory: 94 MB (ctx: 93 MB), hash type: lua, hash chars: min(64,40), symbol mask: utf (τεχ)
+mkiv lua stats  > runtime: 2.212 seconds, 3 processed pages, 3 shipped pages, 1.356 pages/second
 
