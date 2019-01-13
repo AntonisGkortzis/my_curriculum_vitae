@@ -197,12 +197,24 @@ utilitydata.structures.lists.collected={
    ["block"]="bodypart",
    ["internal"]=6,
    ["realpage"]=1,
-   ["reference"]="experience",
+   ["reference"]="industrial-experience",
    ["section"]=3,
   },
   ["titledata"]={
    ["label"]="subsection",
-   ["title"]="Experience",
+   ["title"]="Industrial experience",
+  },
+ },
+ {
+  ["metadata"]=7,
+  ["references"]={
+   ["internal"]=7,
+   ["order"]=4,
+   ["realpage"]=1,
+   ["section"]=3,
+  },
+  ["titledata"]={
+   ["title"]="Jan 2019 -- currently",
   },
  },
  {
@@ -210,10 +222,25 @@ utilitydata.structures.lists.collected={
   ["numberdata"]=11,
   ["references"]={
    ["block"]="bodypart",
-   ["internal"]=7,
+   ["internal"]=8,
    ["realpage"]=1,
-   ["reference"]="technical-experience",
+   ["reference"]="teaching-experience",
    ["section"]=4,
+  },
+  ["titledata"]={
+   ["label"]="subsection",
+   ["title"]="Teaching experience",
+  },
+ },
+ {
+  ["metadata"]=4,
+  ["numberdata"]=13,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=9,
+   ["realpage"]=2,
+   ["reference"]="technical-experience",
+   ["section"]=5,
   },
   ["titledata"]={
    ["label"]="subsection",
@@ -223,10 +250,10 @@ utilitydata.structures.lists.collected={
  {
   ["metadata"]=7,
   ["references"]={
-   ["internal"]=8,
-   ["order"]=4,
-   ["realpage"]=1,
-   ["section"]=4,
+   ["internal"]=10,
+   ["order"]=5,
+   ["realpage"]=2,
+   ["section"]=5,
   },
   ["titledata"]={
    ["title"]="{\\em Knowledge}",
@@ -235,10 +262,10 @@ utilitydata.structures.lists.collected={
  {
   ["metadata"]=7,
   ["references"]={
-   ["internal"]=9,
-   ["order"]=5,
+   ["internal"]=11,
+   ["order"]=6,
    ["realpage"]=2,
-   ["section"]=4,
+   ["section"]=5,
   },
   ["titledata"]={
    ["title"]="{\\em Projects}",
@@ -246,13 +273,13 @@ utilitydata.structures.lists.collected={
  },
  {
   ["metadata"]=4,
-  ["numberdata"]=13,
+  ["numberdata"]=15,
   ["references"]={
    ["block"]="bodypart",
-   ["internal"]=10,
+   ["internal"]=12,
    ["realpage"]=2,
    ["reference"]="research-publications",
-   ["section"]=5,
+   ["section"]=6,
   },
   ["titledata"]={
    ["label"]="subsection",
@@ -261,13 +288,13 @@ utilitydata.structures.lists.collected={
  },
  {
   ["metadata"]=4,
-  ["numberdata"]=15,
+  ["numberdata"]=17,
   ["references"]={
    ["block"]="bodypart",
-   ["internal"]=11,
+   ["internal"]=13,
    ["realpage"]=2,
    ["reference"]="invited-talks",
-   ["section"]=6,
+   ["section"]=7,
   },
   ["titledata"]={
    ["label"]="subsection",
@@ -277,10 +304,10 @@ utilitydata.structures.lists.collected={
  {
   ["metadata"]=7,
   ["references"]={
-   ["internal"]=12,
-   ["order"]=6,
+   ["internal"]=14,
+   ["order"]=7,
    ["realpage"]=2,
-   ["section"]=6,
+   ["section"]=7,
   },
   ["titledata"]={
    ["title"]="Tutorials",
@@ -289,10 +316,10 @@ utilitydata.structures.lists.collected={
  {
   ["metadata"]=7,
   ["references"]={
-   ["internal"]=13,
-   ["order"]=7,
+   ["internal"]=15,
+   ["order"]=8,
    ["realpage"]=2,
-   ["section"]=6,
+   ["section"]=7,
   },
   ["titledata"]={
    ["title"]="Research",
@@ -300,13 +327,13 @@ utilitydata.structures.lists.collected={
  },
  {
   ["metadata"]=4,
-  ["numberdata"]=17,
+  ["numberdata"]=19,
   ["references"]={
    ["block"]="bodypart",
-   ["internal"]=14,
-   ["realpage"]=2,
+   ["internal"]=16,
+   ["realpage"]=3,
    ["reference"]="grands-awards-languages-and-living-abroad",
-   ["section"]=7,
+   ["section"]=8,
   },
   ["titledata"]={
    ["label"]="subsection",
@@ -322,22 +349,22 @@ utilitydata.structures.pages.collected={
  {
   ["block"]="bodypart",
   ["number"]=1,
-  ["numberdata"]=18,
-  ["prefixdata"]=19,
+  ["numberdata"]=20,
+  ["prefixdata"]=21,
   ["state"]="start",
  },
  {
   ["block"]="bodypart",
   ["number"]=2,
-  ["numberdata"]=18,
-  ["prefixdata"]=19,
+  ["numberdata"]=20,
+  ["prefixdata"]=21,
   ["state"]="start",
  },
  {
   ["block"]="bodypart",
   ["number"]=3,
-  ["numberdata"]=18,
-  ["prefixdata"]=19,
+  ["numberdata"]=20,
+  ["prefixdata"]=21,
   ["state"]="start",
  },
 }
@@ -353,7 +380,7 @@ if not utilitydata.structures.references then utilitydata.structures.references 
 
 utilitydata.structures.references.referred={
  { 1, 1 },
- { 2, 11 },
+ { 2, 12 },
 }
 
 if not utilitydata.job then utilitydata.job = { } end
@@ -488,6 +515,16 @@ utilitydata.job.packed={
    ["hidenumber"]=true,
    ["language"]="en",
    ["numbers"]=16,
+   ["separatorset"]="default",
+   ["set"]="all",
+  },
+  { 0, 0, 1, 7 },
+  {
+   ["block"]="bodypart",
+   ["conversionset"]="default",
+   ["hidenumber"]=true,
+   ["language"]="en",
+   ["numbers"]=18,
    ["separatorset"]="default",
    ["set"]="all",
   },
