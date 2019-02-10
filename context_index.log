@@ -5,7 +5,7 @@ This is LuaTeX, Version beta-0.80.0 (TeX Live 2015/Debian) (rev 5238)
  \write18 enabled.
 open source     > 1 > 1 > /usr/share/texmf/tex/context/base/cont-yes.mkiv
 
-ConTeXt  ver: 2015.05.18 12:26 MKIV current  fmt: 2019.1.18  int: english/english
+ConTeXt  ver: 2015.05.18 12:26 MKIV current  fmt: 2019.2.10  int: english/english
 
 system          > 'cont-new.mkiv' loaded
 open source     > 2 > 2 > /usr/share/texmf/tex/context/base/cont-new.mkiv
@@ -40,7 +40,7 @@ fonts           > names > scanning path '/usr/share/texmf' for OTF files
 fonts           > names > 0 entries found, 73 OTF files checked, 73 okay
 fonts           > names > scanning path '/usr/share/texlive/texmf-dist' for OTF files
 fonts           > names > 0 entries found, 2 OTF files checked, 2 okay
-fonts           > names > 150 tree files identified, 76 skipped, 76 duplicates, 74 hash entries added, runtime 0.535 seconds
+fonts           > names > 150 tree files identified, 76 skipped, 76 duplicates, 74 hash entries added, runtime 0.544 seconds
 fonts           > names > identifying tree font files with suffix 'ttf'
 fonts           > names > scanning path '/etc/texmf' for ttf files
 fonts           > names > 0 entries found, 0 ttf files checked, 0 okay
@@ -63,7 +63,7 @@ fonts           > names > scanning path '/usr/share/texmf' for TTF files
 fonts           > names > 0 entries found, 0 TTF files checked, 0 okay
 fonts           > names > scanning path '/usr/share/texlive/texmf-dist' for TTF files
 fonts           > names > 0 entries found, 0 TTF files checked, 0 okay
-fonts           > names > 0 tree files identified, 0 skipped, 0 duplicates, 0 hash entries added, runtime 0.094 seconds
+fonts           > names > 0 tree files identified, 0 skipped, 0 duplicates, 0 hash entries added, runtime 0.092 seconds
 fonts           > names > identifying tree font files with suffix 'ttc'
 fonts           > names > scanning path '/etc/texmf' for ttc files
 fonts           > names > 0 entries found, 0 ttc files checked, 0 okay
@@ -86,7 +86,7 @@ fonts           > names > scanning path '/usr/share/texmf' for TTC files
 fonts           > names > 0 entries found, 0 TTC files checked, 0 okay
 fonts           > names > scanning path '/usr/share/texlive/texmf-dist' for TTC files
 fonts           > names > 0 entries found, 0 TTC files checked, 0 okay
-fonts           > names > 0 tree files identified, 0 skipped, 0 duplicates, 0 hash entries added, runtime 0.094 seconds
+fonts           > names > 0 tree files identified, 0 skipped, 0 duplicates, 0 hash entries added, runtime 0.091 seconds
 fonts           > names > identifying tree font files with suffix 'dfont'
 fonts           > names > scanning path '/etc/texmf' for dfont files
 fonts           > names > 0 entries found, 0 dfont files checked, 0 okay
@@ -109,7 +109,7 @@ fonts           > names > scanning path '/usr/share/texmf' for DFONT files
 fonts           > names > 0 entries found, 0 DFONT files checked, 0 okay
 fonts           > names > scanning path '/usr/share/texlive/texmf-dist' for DFONT files
 fonts           > names > 0 entries found, 0 DFONT files checked, 0 okay
-fonts           > names > 0 tree files identified, 0 skipped, 0 duplicates, 0 hash entries added, runtime 0.090 seconds
+fonts           > names > 0 tree files identified, 0 skipped, 0 duplicates, 0 hash entries added, runtime 0.093 seconds
 fonts           > names > identifying tree font files with suffix 'afm'
 fonts           > names > scanning path '/etc/texmf' for afm files
 fonts           > names > 0 entries found, 0 afm files checked, 0 okay
@@ -132,7 +132,7 @@ fonts           > names > scanning path '/usr/share/texmf' for AFM files
 fonts           > names > 0 entries found, 194 AFM files checked, 194 okay
 fonts           > names > scanning path '/usr/share/texlive/texmf-dist' for AFM files
 fonts           > names > 0 entries found, 369 AFM files checked, 369 okay
-fonts           > names > 1126 tree files identified, 563 skipped, 563 duplicates, 563 hash entries added, runtime 0.237 seconds
+fonts           > names > 1126 tree files identified, 563 skipped, 563 duplicates, 563 hash entries added, runtime 0.226 seconds
 fonts           > names > identifying system font files with suffix 'otf'
 fonts           > names > identifying system font files with suffix 'OTF'
 fonts           > names > 0 system files identified, 0 skipped, 0 duplicates, 0 hash entries added, runtime 0.000 seconds
@@ -184,7 +184,7 @@ fonts           > names >
 fonts           > names >   0         : 0=436
 fonts           > names >   5         : 5=74
 fonts           > names > 
-fonts           > names > total scan time 1.060 seconds
+fonts           > names > total scan time 1.056 seconds
 system          > lua > compiling '/home/travis/.texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/data/names.tma' into '/home/travis/.texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/data/names.tmc'
 system          > lua > dumping '/home/travis/.texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/data/names.tma' into '/home/travis/.texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/data/names.tmc' stripped
 fonts           > names > accessing the data table failed
@@ -199,7 +199,7 @@ fonts           > otf loading > 3028 bogus names removed
 fonts           > otf loading > saving '/usr/share/texmf/fonts/opentype/public/lm-math/latinmodern-math.otf' in cache
 system          > lua > compiling '/home/travis/.texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/otf/latinmodern-math.tma' into '/home/travis/.texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/otf/latinmodern-math.tmc'
 system          > lua > dumping '/home/travis/.texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/otf/latinmodern-math.tma' into '/home/travis/.texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/otf/latinmodern-math.tmc' stripped
-fonts           > otf loading > preprocessing and caching time 0.350, packtime 0.043
+fonts           > otf loading > preprocessing and caching time 0.329, packtime 0.040
 structure       > sectioning > section @ level 3 : 0.0.1 -> Stefanos Georgiou
 fonts           > defining > font with asked name 'texgyreheros-regular' is not found using lookup 'file'
 fonts           > defining > unknown font 'texgyreheros-regular', loading aborted
@@ -292,7 +292,23 @@ fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-
 fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
 fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
 fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
-structure       > sectioning > subsection @ level 4 : 0.0.1.2 -> Industrial experience
+structure       > sectioning > subsection @ level 4 : 0.0.1.2 -> Teaching experience
+fonts           > defining > font with asked name 'texgyreheros-regular' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-regular', loading aborted
+fonts           > defining > unable to define 'texgyreheros-regular' as 'helvetica-11pt-ss-tf-0-b-0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0-b-0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+structure       > sectioning > subsection @ level 4 : 0.0.1.3 -> Research Publications
 fonts           > defining > font with asked name 'texgyreheros-regular' is not found using lookup 'file'
 fonts           > defining > unknown font 'texgyreheros-regular', loading aborted
 fonts           > defining > unable to define 'texgyreheros-regular' as 'helvetica-11pt-ss-tf-0-b-0'
@@ -311,101 +327,11 @@ fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-
 fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
 fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
 fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
-fonts           > defining > font with asked name 'texgyreheros-italic' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-italic', loading aborted
-fonts           > defining > unable to define 'texgyreheros-italic' as 'helvetica-11pt-ss-sl-0--0'
-structure       > sectioning > subsection @ level 4 : 0.0.1.3 -> Teaching experience
-fonts           > defining > font with asked name 'texgyreheros-regular' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-regular', loading aborted
-fonts           > defining > unable to define 'texgyreheros-regular' as 'helvetica-11pt-ss-tf-0-b-0'
-fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0-b-0'
-fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
-fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
-fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
-fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+
+Overfull \hbox (0.26071pt too wide) in paragraph at lines 159--169
+ [][][][] \3>helvetica-11pt-mm-mb--1 Ste-fanos Geor-giou, Maria Kecha-gia Panos Louri-das, and Dio-midis Spinel-lis. What
 backend         > xmp > using file '/usr/share/texmf/tex/context/base/lpdf-pdx.xml'
 pages           > flushing realpage 1, userpage 1
-structure       > sectioning > subsection @ level 4 : 0.0.1.4 -> Technical Experience
-fonts           > defining > font with asked name 'texgyreheros-regular' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-regular', loading aborted
-fonts           > defining > unable to define 'texgyreheros-regular' as 'helvetica-11pt-ss-tf-0-b-0'
-fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0-b-0'
-fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
-fonts           > defining > font with asked name 'texgyreheros-bolditalic' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bolditalic', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bolditalic' as 'helvetica-11pt-ss-bs-0--0'
-fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
-fonts           > defining > font with asked name 'texgyreheros-bolditalic' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bolditalic', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bolditalic' as 'helvetica-11pt-ss-bs-0--0'
-fonts           > defining > font with asked name 'texgyreheros-italic' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-italic', loading aborted
-fonts           > defining > unable to define 'texgyreheros-italic' as 'helvetica-11pt-ss-sl-0--0'
-fonts           > defining > font with asked name 'texgyreheros-italic' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-italic', loading aborted
-fonts           > defining > unable to define 'texgyreheros-italic' as 'helvetica-11pt-ss-sl-0--0'
-fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
-fonts           > defining > font with asked name 'texgyreheros-bolditalic' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bolditalic', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bolditalic' as 'helvetica-11pt-ss-bs-0--0'
-fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
-fonts           > defining > font with asked name 'texgyreheros-bolditalic' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bolditalic', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bolditalic' as 'helvetica-11pt-ss-bs-0--0'
-fonts           > defining > font with asked name 'texgyreheros-italic' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-italic', loading aborted
-fonts           > defining > unable to define 'texgyreheros-italic' as 'helvetica-11pt-ss-sl-0--0'
-fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
-fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
-fonts           > defining > font with asked name 'texgyreheros-italic' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-italic', loading aborted
-fonts           > defining > unable to define 'texgyreheros-italic' as 'helvetica-11pt-ss-sl-0--0'
-fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
-fonts           > defining > font with asked name 'texgyreheros-italic' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-italic', loading aborted
-fonts           > defining > unable to define 'texgyreheros-italic' as 'helvetica-11pt-ss-sl-0--0'
-fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
-fonts           > defining > font with asked name 'texgyreheros-italic' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-italic', loading aborted
-fonts           > defining > unable to define 'texgyreheros-italic' as 'helvetica-11pt-ss-sl-0--0'
-fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
-structure       > sectioning > subsection @ level 4 : 0.0.1.5 -> Research Publications
-fonts           > defining > font with asked name 'texgyreheros-regular' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-regular', loading aborted
-fonts           > defining > unable to define 'texgyreheros-regular' as 'helvetica-11pt-ss-tf-0-b-0'
-fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0-b-0'
 fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
 fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
 fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
@@ -418,22 +344,7 @@ fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-
 fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
 fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
 fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
-
-Overfull \hbox (0.26071pt too wide) in paragraph at lines 203--213
- [][][][] \3>helvetica-11pt-mm-mb--1 Ste-fanos Geor-giou, Maria Kecha-gia Panos Louri-das, and Dio-midis Spinel-lis. What
-fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
-fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
-fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
-fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
-structure       > sectioning > subsection @ level 4 : 0.0.1.6 -> Invited Talks
+structure       > sectioning > subsection @ level 4 : 0.0.1.4 -> Invited Talks
 fonts           > defining > font with asked name 'texgyreheros-regular' is not found using lookup 'file'
 fonts           > defining > unknown font 'texgyreheros-regular', loading aborted
 fonts           > defining > unable to define 'texgyreheros-regular' as 'helvetica-11pt-ss-tf-0-b-0'
@@ -465,8 +376,103 @@ fonts           > defining > font with asked name 'texgyreheros-bold' is not fou
 fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
 fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
 
-Overfull \hbox (1.8864pt too wide) in paragraph at lines 244--248
+Overfull \hbox (1.8864pt too wide) in paragraph at lines 200--204
  \3>helvetica-11pt-mm-mb--1 sented on 12th of June 2018 at PER-C-COM's Sum-mer School in Lappeen-
+structure       > sectioning > subsection @ level 4 : 0.0.1.5 -> Industrial experience
+fonts           > defining > font with asked name 'texgyreheros-regular' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-regular', loading aborted
+fonts           > defining > unable to define 'texgyreheros-regular' as 'helvetica-11pt-ss-tf-0-b-0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0-b-0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+fonts           > defining > font with asked name 'texgyreheros-italic' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-italic', loading aborted
+fonts           > defining > unable to define 'texgyreheros-italic' as 'helvetica-11pt-ss-sl-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+structure       > sectioning > subsection @ level 4 : 0.0.1.6 -> Technical Experience
+fonts           > defining > font with asked name 'texgyreheros-regular' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-regular', loading aborted
+fonts           > defining > unable to define 'texgyreheros-regular' as 'helvetica-11pt-ss-tf-0-b-0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0-b-0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bolditalic' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bolditalic', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bolditalic' as 'helvetica-11pt-ss-bs-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bolditalic' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bolditalic', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bolditalic' as 'helvetica-11pt-ss-bs-0--0'
+fonts           > defining > font with asked name 'texgyreheros-italic' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-italic', loading aborted
+fonts           > defining > unable to define 'texgyreheros-italic' as 'helvetica-11pt-ss-sl-0--0'
+fonts           > defining > font with asked name 'texgyreheros-italic' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-italic', loading aborted
+fonts           > defining > unable to define 'texgyreheros-italic' as 'helvetica-11pt-ss-sl-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bolditalic' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bolditalic', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bolditalic' as 'helvetica-11pt-ss-bs-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bolditalic' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bolditalic', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bolditalic' as 'helvetica-11pt-ss-bs-0--0'
+fonts           > defining > font with asked name 'texgyreheros-italic' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-italic', loading aborted
+fonts           > defining > unable to define 'texgyreheros-italic' as 'helvetica-11pt-ss-sl-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+fonts           > defining > font with asked name 'texgyreheros-italic' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-italic', loading aborted
+fonts           > defining > unable to define 'texgyreheros-italic' as 'helvetica-11pt-ss-sl-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+fonts           > defining > font with asked name 'texgyreheros-italic' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-italic', loading aborted
+fonts           > defining > unable to define 'texgyreheros-italic' as 'helvetica-11pt-ss-sl-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+fonts           > defining > font with asked name 'texgyreheros-italic' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-italic', loading aborted
+fonts           > defining > unable to define 'texgyreheros-italic' as 'helvetica-11pt-ss-sl-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
 structure       > sectioning > subsection @ level 4 : 0.0.1.7 -> Grands, Awards, Languages, and Living Abroad
 fonts           > defining > font with asked name 'texgyreheros-regular' is not found using lookup 'file'
 fonts           > defining > unknown font 'texgyreheros-regular', loading aborted
@@ -481,35 +487,35 @@ close source    > 1 > 4 > /usr/share/texmf/tex/context/base/cont-yes.mkiv
 
 mkiv lua stats  > used config file: /usr/share/texmf/web2c/texmfcnf.lua;/usr/share/texlive/texmf-dist/web2c/texmfcnf.lua
 mkiv lua stats  > used cache path: readable: '/var/lib/texmf/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442' | readable+writable: '/home/travis/.texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442'
-mkiv lua stats  > resource resolver: loadtime 0.016 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 529 found files, scanned paths: <none>
-mkiv lua stats  > stored bytecode data: 371 modules (0.215 sec), 78 tables (0.008 sec), 449 chunks (0.223 sec)
+mkiv lua stats  > resource resolver: loadtime 0.014 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 529 found files, scanned paths: <none>
+mkiv lua stats  > stored bytecode data: 371 modules (0.210 sec), 78 tables (0.008 sec), 449 chunks (0.218 sec)
 mkiv lua stats  > traced context: maxstack: 1152, freed: 20, unreachable: 1132
 mkiv lua stats  > running in nuts mode: yes
 mkiv lua stats  > cleaned up reserved nodes: 53 nodes, 439 lists of 438
 mkiv lua stats  > node memory usage: 2 glue, 2 penalty, 12 attribute, 53 glue_spec, 3 attribute_list, 2 temp
-mkiv lua stats  > node list callback tasks: 6 unique task lists, 6 instances (re)created, 646 calls
+mkiv lua stats  > node list callback tasks: 6 unique task lists, 6 instances (re)created, 655 calls
 mkiv lua stats  > used backend: pdf (backend for directly generating pdf output)
 mkiv lua stats  > loaded patterns: en::2, load time: 0.000
 mkiv lua stats  > jobdata time: 0.002 seconds saving, 0.001 seconds loading
-mkiv lua stats  > callbacks: 1214 direct, 840 indirect, 2054 total
+mkiv lua stats  > callbacks: 1235 direct, 843 indirect, 2078 total
 mkiv lua stats  > randomizer: resumed with value 0.98254495439238
-mkiv lua stats  > interactive elements: 27 references, 16 destinations
+mkiv lua stats  > interactive elements: 27 references, 17 destinations
 mkiv lua stats  > result saved in file: web/index.pdf.pdf, compresslevel 3, objectcompresslevel 3
 mkiv lua stats  > loaded fonts: 1 files: latinmodern-math.otf
-mkiv lua stats  > fonts load time: 1.650 seconds 
+mkiv lua stats  > fonts load time: 1.680 seconds 
 mkiv lua stats  > pdf annotations: 27 links (27 unique), 0 special
 mkiv lua stats  > used platform: linux-64, type: unix, binary subtree: usr
 mkiv lua stats  > luatex banner: this is luatex, version beta-0.80.0 (tex live 2015/debian) (rev 5238)
 mkiv lua stats  > control sequences: 43436 of 65536 + 100000
-mkiv lua stats  > lua properties: engine: lua, used memory: 104 MB (ctx: 104 MB), hash type: lua, hash chars: min(64,40), symbol mask: utf (τεχ)
-mkiv lua stats  > runtime: 2.006 seconds, 3 processed pages, 3 shipped pages, 1.496 pages/second
+mkiv lua stats  > lua properties: engine: lua, used memory: 52 MB (ctx: 50 MB), hash type: lua, hash chars: min(64,40), symbol mask: utf (τεχ)
+mkiv lua stats  > runtime: 2.025 seconds, 3 processed pages, 3 shipped pages, 1.481 pages/second
 
 mtx-context     | run 2: luatex --fmt="/var/lib/texmf/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/formats/luatex/cont-en" --jobname="index" --lua="/var/lib/texmf/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/formats/luatex/cont-en.lui" --no-parse-first-line --c:currentrun=2 --c:fulljobname="web/index.tex" --c:input="web/index.tex" --c:kindofrun=2 --c:maxnofruns=9 --c:result="web/index.pdf" "cont-yes.mkiv"
 This is LuaTeX, Version beta-0.80.0 (TeX Live 2015/Debian) (rev 5238) 
  \write18 enabled.
 open source     > 1 > 1 > /usr/share/texmf/tex/context/base/cont-yes.mkiv
 
-ConTeXt  ver: 2015.05.18 12:26 MKIV current  fmt: 2019.1.18  int: english/english
+ConTeXt  ver: 2015.05.18 12:26 MKIV current  fmt: 2019.2.10  int: english/english
 
 system          > 'cont-new.mkiv' loaded
 open source     > 2 > 2 > /usr/share/texmf/tex/context/base/cont-new.mkiv
@@ -616,7 +622,23 @@ fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-
 fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
 fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
 fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
-structure       > sectioning > subsection @ level 4 : 0.0.1.2 -> Industrial experience
+structure       > sectioning > subsection @ level 4 : 0.0.1.2 -> Teaching experience
+fonts           > defining > font with asked name 'texgyreheros-regular' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-regular', loading aborted
+fonts           > defining > unable to define 'texgyreheros-regular' as 'helvetica-11pt-ss-tf-0-b-0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0-b-0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+structure       > sectioning > subsection @ level 4 : 0.0.1.3 -> Research Publications
 fonts           > defining > font with asked name 'texgyreheros-regular' is not found using lookup 'file'
 fonts           > defining > unknown font 'texgyreheros-regular', loading aborted
 fonts           > defining > unable to define 'texgyreheros-regular' as 'helvetica-11pt-ss-tf-0-b-0'
@@ -635,101 +657,11 @@ fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-
 fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
 fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
 fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
-fonts           > defining > font with asked name 'texgyreheros-italic' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-italic', loading aborted
-fonts           > defining > unable to define 'texgyreheros-italic' as 'helvetica-11pt-ss-sl-0--0'
-structure       > sectioning > subsection @ level 4 : 0.0.1.3 -> Teaching experience
-fonts           > defining > font with asked name 'texgyreheros-regular' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-regular', loading aborted
-fonts           > defining > unable to define 'texgyreheros-regular' as 'helvetica-11pt-ss-tf-0-b-0'
-fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0-b-0'
-fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
-fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
-fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
-fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+
+Overfull \hbox (0.26071pt too wide) in paragraph at lines 159--169
+ [][][][] \3>helvetica-11pt-mm-mb--1 Ste-fanos Geor-giou, Maria Kecha-gia Panos Louri-das, and Dio-midis Spinel-lis. What
 backend         > xmp > using file '/usr/share/texmf/tex/context/base/lpdf-pdx.xml'
 pages           > flushing realpage 1, userpage 1
-structure       > sectioning > subsection @ level 4 : 0.0.1.4 -> Technical Experience
-fonts           > defining > font with asked name 'texgyreheros-regular' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-regular', loading aborted
-fonts           > defining > unable to define 'texgyreheros-regular' as 'helvetica-11pt-ss-tf-0-b-0'
-fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0-b-0'
-fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
-fonts           > defining > font with asked name 'texgyreheros-bolditalic' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bolditalic', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bolditalic' as 'helvetica-11pt-ss-bs-0--0'
-fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
-fonts           > defining > font with asked name 'texgyreheros-bolditalic' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bolditalic', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bolditalic' as 'helvetica-11pt-ss-bs-0--0'
-fonts           > defining > font with asked name 'texgyreheros-italic' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-italic', loading aborted
-fonts           > defining > unable to define 'texgyreheros-italic' as 'helvetica-11pt-ss-sl-0--0'
-fonts           > defining > font with asked name 'texgyreheros-italic' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-italic', loading aborted
-fonts           > defining > unable to define 'texgyreheros-italic' as 'helvetica-11pt-ss-sl-0--0'
-fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
-fonts           > defining > font with asked name 'texgyreheros-bolditalic' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bolditalic', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bolditalic' as 'helvetica-11pt-ss-bs-0--0'
-fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
-fonts           > defining > font with asked name 'texgyreheros-bolditalic' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bolditalic', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bolditalic' as 'helvetica-11pt-ss-bs-0--0'
-fonts           > defining > font with asked name 'texgyreheros-italic' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-italic', loading aborted
-fonts           > defining > unable to define 'texgyreheros-italic' as 'helvetica-11pt-ss-sl-0--0'
-fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
-fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
-fonts           > defining > font with asked name 'texgyreheros-italic' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-italic', loading aborted
-fonts           > defining > unable to define 'texgyreheros-italic' as 'helvetica-11pt-ss-sl-0--0'
-fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
-fonts           > defining > font with asked name 'texgyreheros-italic' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-italic', loading aborted
-fonts           > defining > unable to define 'texgyreheros-italic' as 'helvetica-11pt-ss-sl-0--0'
-fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
-fonts           > defining > font with asked name 'texgyreheros-italic' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-italic', loading aborted
-fonts           > defining > unable to define 'texgyreheros-italic' as 'helvetica-11pt-ss-sl-0--0'
-fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
-structure       > sectioning > subsection @ level 4 : 0.0.1.5 -> Research Publications
-fonts           > defining > font with asked name 'texgyreheros-regular' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-regular', loading aborted
-fonts           > defining > unable to define 'texgyreheros-regular' as 'helvetica-11pt-ss-tf-0-b-0'
-fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0-b-0'
 fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
 fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
 fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
@@ -742,22 +674,7 @@ fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-
 fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
 fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
 fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
-
-Overfull \hbox (0.26071pt too wide) in paragraph at lines 203--213
- [][][][] \3>helvetica-11pt-mm-mb--1 Ste-fanos Geor-giou, Maria Kecha-gia Panos Louri-das, and Dio-midis Spinel-lis. What
-fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
-fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
-fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
-fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
-fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
-fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
-structure       > sectioning > subsection @ level 4 : 0.0.1.6 -> Invited Talks
+structure       > sectioning > subsection @ level 4 : 0.0.1.4 -> Invited Talks
 fonts           > defining > font with asked name 'texgyreheros-regular' is not found using lookup 'file'
 fonts           > defining > unknown font 'texgyreheros-regular', loading aborted
 fonts           > defining > unable to define 'texgyreheros-regular' as 'helvetica-11pt-ss-tf-0-b-0'
@@ -789,8 +706,103 @@ fonts           > defining > font with asked name 'texgyreheros-bold' is not fou
 fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
 fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
 
-Overfull \hbox (1.8864pt too wide) in paragraph at lines 244--248
+Overfull \hbox (1.8864pt too wide) in paragraph at lines 200--204
  \3>helvetica-11pt-mm-mb--1 sented on 12th of June 2018 at PER-C-COM's Sum-mer School in Lappeen-
+structure       > sectioning > subsection @ level 4 : 0.0.1.5 -> Industrial experience
+fonts           > defining > font with asked name 'texgyreheros-regular' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-regular', loading aborted
+fonts           > defining > unable to define 'texgyreheros-regular' as 'helvetica-11pt-ss-tf-0-b-0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0-b-0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+fonts           > defining > font with asked name 'texgyreheros-italic' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-italic', loading aborted
+fonts           > defining > unable to define 'texgyreheros-italic' as 'helvetica-11pt-ss-sl-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+structure       > sectioning > subsection @ level 4 : 0.0.1.6 -> Technical Experience
+fonts           > defining > font with asked name 'texgyreheros-regular' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-regular', loading aborted
+fonts           > defining > unable to define 'texgyreheros-regular' as 'helvetica-11pt-ss-tf-0-b-0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0-b-0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bolditalic' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bolditalic', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bolditalic' as 'helvetica-11pt-ss-bs-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bolditalic' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bolditalic', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bolditalic' as 'helvetica-11pt-ss-bs-0--0'
+fonts           > defining > font with asked name 'texgyreheros-italic' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-italic', loading aborted
+fonts           > defining > unable to define 'texgyreheros-italic' as 'helvetica-11pt-ss-sl-0--0'
+fonts           > defining > font with asked name 'texgyreheros-italic' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-italic', loading aborted
+fonts           > defining > unable to define 'texgyreheros-italic' as 'helvetica-11pt-ss-sl-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bolditalic' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bolditalic', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bolditalic' as 'helvetica-11pt-ss-bs-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bolditalic' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bolditalic', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bolditalic' as 'helvetica-11pt-ss-bs-0--0'
+fonts           > defining > font with asked name 'texgyreheros-italic' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-italic', loading aborted
+fonts           > defining > unable to define 'texgyreheros-italic' as 'helvetica-11pt-ss-sl-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+fonts           > defining > font with asked name 'texgyreheros-italic' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-italic', loading aborted
+fonts           > defining > unable to define 'texgyreheros-italic' as 'helvetica-11pt-ss-sl-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+fonts           > defining > font with asked name 'texgyreheros-italic' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-italic', loading aborted
+fonts           > defining > unable to define 'texgyreheros-italic' as 'helvetica-11pt-ss-sl-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+fonts           > defining > font with asked name 'texgyreheros-italic' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-italic', loading aborted
+fonts           > defining > unable to define 'texgyreheros-italic' as 'helvetica-11pt-ss-sl-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
 structure       > sectioning > subsection @ level 4 : 0.0.1.7 -> Grands, Awards, Languages, and Living Abroad
 fonts           > defining > font with asked name 'texgyreheros-regular' is not found using lookup 'file'
 fonts           > defining > unknown font 'texgyreheros-regular', loading aborted
@@ -806,27 +818,27 @@ close source    > 1 > 4 > /usr/share/texmf/tex/context/base/cont-yes.mkiv
 mkiv lua stats  > used config file: /usr/share/texmf/web2c/texmfcnf.lua;/usr/share/texlive/texmf-dist/web2c/texmfcnf.lua
 mkiv lua stats  > used cache path: readable: '/var/lib/texmf/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442' | readable+writable: '/home/travis/.texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442'
 mkiv lua stats  > resource resolver: loadtime 0.015 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 9 found files, scanned paths: <none>
-mkiv lua stats  > stored bytecode data: 371 modules (0.213 sec), 78 tables (0.007 sec), 449 chunks (0.221 sec)
+mkiv lua stats  > stored bytecode data: 371 modules (0.209 sec), 78 tables (0.007 sec), 449 chunks (0.217 sec)
 mkiv lua stats  > traced context: maxstack: 1152, freed: 20, unreachable: 1132
 mkiv lua stats  > running in nuts mode: yes
 mkiv lua stats  > cleaned up reserved nodes: 53 nodes, 439 lists of 438
 mkiv lua stats  > node memory usage: 2 glue, 2 penalty, 12 attribute, 53 glue_spec, 3 attribute_list, 2 temp
-mkiv lua stats  > node list callback tasks: 6 unique task lists, 6 instances (re)created, 646 calls
+mkiv lua stats  > node list callback tasks: 6 unique task lists, 6 instances (re)created, 655 calls
 mkiv lua stats  > used backend: pdf (backend for directly generating pdf output)
 mkiv lua stats  > loaded patterns: en::2, load time: 0.000
 mkiv lua stats  > jobdata time: 0.002 seconds saving, 0.001 seconds loading
-mkiv lua stats  > callbacks: 1214 direct, 840 indirect, 2054 total
+mkiv lua stats  > callbacks: 1235 direct, 843 indirect, 2078 total
 mkiv lua stats  > randomizer: resumed with value 0.98254495439238
-mkiv lua stats  > interactive elements: 27 references, 16 destinations
+mkiv lua stats  > interactive elements: 27 references, 17 destinations
 mkiv lua stats  > result saved in file: web/index.pdf.pdf, compresslevel 3, objectcompresslevel 3
 mkiv lua stats  > loaded fonts: 1 files: latinmodern-math.otf
-mkiv lua stats  > fonts load time: 0.183 seconds 
+mkiv lua stats  > fonts load time: 0.181 seconds 
 mkiv lua stats  > pdf annotations: 27 links (27 unique), 0 special
 mkiv lua stats  > used platform: linux-64, type: unix, binary subtree: usr
 mkiv lua stats  > luatex banner: this is luatex, version beta-0.80.0 (tex live 2015/debian) (rev 5238)
 mkiv lua stats  > control sequences: 43435 of 65536 + 100000
 mkiv lua stats  > lua properties: engine: lua, used memory: 67 MB (ctx: 67 MB), hash type: lua, hash chars: min(64,40), symbol mask: utf (τεχ)
-mkiv lua stats  > runtime: 0.525 seconds, 3 processed pages, 3 shipped pages, 5.714 pages/second
+mkiv lua stats  > runtime: 0.521 seconds, 3 processed pages, 3 shipped pages, 5.758 pages/second
 
 mtx-context     | result renamed to: web/index
-system          | total runtime: 2.987 seconds
+system          | total runtime: 3.003 seconds
