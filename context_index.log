@@ -5,7 +5,7 @@ This is LuaTeX, Version beta-0.80.0 (TeX Live 2015/Debian) (rev 5238)
  \write18 enabled.
 open source     > 1 > 1 > /usr/share/texmf/tex/context/base/cont-yes.mkiv
 
-ConTeXt  ver: 2015.05.18 12:26 MKIV current  fmt: 2019.2.10  int: english/english
+ConTeXt  ver: 2015.05.18 12:26 MKIV current  fmt: 2019.2.20  int: english/english
 
 system          > 'cont-new.mkiv' loaded
 open source     > 2 > 2 > /usr/share/texmf/tex/context/base/cont-new.mkiv
@@ -40,7 +40,7 @@ fonts           > names > scanning path '/usr/share/texmf' for OTF files
 fonts           > names > 0 entries found, 73 OTF files checked, 73 okay
 fonts           > names > scanning path '/usr/share/texlive/texmf-dist' for OTF files
 fonts           > names > 0 entries found, 2 OTF files checked, 2 okay
-fonts           > names > 150 tree files identified, 76 skipped, 76 duplicates, 74 hash entries added, runtime 0.578 seconds
+fonts           > names > 150 tree files identified, 76 skipped, 76 duplicates, 74 hash entries added, runtime 0.530 seconds
 fonts           > names > identifying tree font files with suffix 'ttf'
 fonts           > names > scanning path '/etc/texmf' for ttf files
 fonts           > names > 0 entries found, 0 ttf files checked, 0 okay
@@ -109,7 +109,7 @@ fonts           > names > scanning path '/usr/share/texmf' for DFONT files
 fonts           > names > 0 entries found, 0 DFONT files checked, 0 okay
 fonts           > names > scanning path '/usr/share/texlive/texmf-dist' for DFONT files
 fonts           > names > 0 entries found, 0 DFONT files checked, 0 okay
-fonts           > names > 0 tree files identified, 0 skipped, 0 duplicates, 0 hash entries added, runtime 0.090 seconds
+fonts           > names > 0 tree files identified, 0 skipped, 0 duplicates, 0 hash entries added, runtime 0.091 seconds
 fonts           > names > identifying tree font files with suffix 'afm'
 fonts           > names > scanning path '/etc/texmf' for afm files
 fonts           > names > 0 entries found, 0 afm files checked, 0 okay
@@ -132,7 +132,7 @@ fonts           > names > scanning path '/usr/share/texmf' for AFM files
 fonts           > names > 0 entries found, 194 AFM files checked, 194 okay
 fonts           > names > scanning path '/usr/share/texlive/texmf-dist' for AFM files
 fonts           > names > 0 entries found, 369 AFM files checked, 369 okay
-fonts           > names > 1126 tree files identified, 563 skipped, 563 duplicates, 563 hash entries added, runtime 0.221 seconds
+fonts           > names > 1126 tree files identified, 563 skipped, 563 duplicates, 563 hash entries added, runtime 0.215 seconds
 fonts           > names > identifying system font files with suffix 'otf'
 fonts           > names > identifying system font files with suffix 'OTF'
 fonts           > names > 0 system files identified, 0 skipped, 0 duplicates, 0 hash entries added, runtime 0.000 seconds
@@ -184,7 +184,7 @@ fonts           > names >
 fonts           > names >   0         : 0=436
 fonts           > names >   5         : 5=74
 fonts           > names > 
-fonts           > names > total scan time 1.082 seconds
+fonts           > names > total scan time 1.028 seconds
 system          > lua > compiling '/home/travis/.texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/data/names.tma' into '/home/travis/.texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/data/names.tmc'
 system          > lua > dumping '/home/travis/.texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/data/names.tma' into '/home/travis/.texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/data/names.tmc' stripped
 fonts           > names > accessing the data table failed
@@ -199,7 +199,7 @@ fonts           > otf loading > 3028 bogus names removed
 fonts           > otf loading > saving '/usr/share/texmf/fonts/opentype/public/lm-math/latinmodern-math.otf' in cache
 system          > lua > compiling '/home/travis/.texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/otf/latinmodern-math.tma' into '/home/travis/.texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/otf/latinmodern-math.tmc'
 system          > lua > dumping '/home/travis/.texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/otf/latinmodern-math.tma' into '/home/travis/.texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/otf/latinmodern-math.tmc' stripped
-fonts           > otf loading > preprocessing and caching time 0.391, packtime 0.041
+fonts           > otf loading > preprocessing and caching time 0.361, packtime 0.038
 structure       > sectioning > section @ level 3 : 0.0.1 -> Stefanos Georgiou
 fonts           > defining > font with asked name 'texgyreheros-regular' is not found using lookup 'file'
 fonts           > defining > unknown font 'texgyreheros-regular', loading aborted
@@ -449,6 +449,22 @@ fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-
 fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
 fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
 fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bolditalic' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bolditalic', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bolditalic' as 'helvetica-11pt-ss-bs-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bolditalic' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bolditalic', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bolditalic' as 'helvetica-11pt-ss-bs-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+pages           > flushing realpage 2, userpage 2
 structure       > sectioning > subsection @ level 4 : 0.0.1.7 -> Grands, Awards, Languages, and Living Abroad
 fonts           > defining > font with asked name 'texgyreheros-regular' is not found using lookup 'file'
 fonts           > defining > unknown font 'texgyreheros-regular', loading aborted
@@ -456,42 +472,41 @@ fonts           > defining > unable to define 'texgyreheros-regular' as 'helveti
 fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
 fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
 fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0-b-0'
-pages           > flushing realpage 2, userpage 2
 pages           > flushing realpage 3, userpage 3
 close source    > 2 > 4 > web/index.tex
 close source    > 1 > 4 > /usr/share/texmf/tex/context/base/cont-yes.mkiv
 
 mkiv lua stats  > used config file: /usr/share/texmf/web2c/texmfcnf.lua;/usr/share/texlive/texmf-dist/web2c/texmfcnf.lua
 mkiv lua stats  > used cache path: readable: '/var/lib/texmf/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442' | readable+writable: '/home/travis/.texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442'
-mkiv lua stats  > resource resolver: loadtime 0.013 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 529 found files, scanned paths: <none>
-mkiv lua stats  > stored bytecode data: 371 modules (0.216 sec), 78 tables (0.008 sec), 449 chunks (0.225 sec)
+mkiv lua stats  > resource resolver: loadtime 0.014 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 529 found files, scanned paths: <none>
+mkiv lua stats  > stored bytecode data: 371 modules (0.207 sec), 78 tables (0.008 sec), 449 chunks (0.215 sec)
 mkiv lua stats  > traced context: maxstack: 1153, freed: 21, unreachable: 1132
 mkiv lua stats  > running in nuts mode: yes
 mkiv lua stats  > cleaned up reserved nodes: 53 nodes, 439 lists of 438
 mkiv lua stats  > node memory usage: 2 glue, 2 penalty, 12 attribute, 53 glue_spec, 3 attribute_list, 2 temp
-mkiv lua stats  > node list callback tasks: 6 unique task lists, 6 instances (re)created, 660 calls
+mkiv lua stats  > node list callback tasks: 6 unique task lists, 6 instances (re)created, 675 calls
 mkiv lua stats  > used backend: pdf (backend for directly generating pdf output)
 mkiv lua stats  > loaded patterns: en::2, load time: 0.000
-mkiv lua stats  > jobdata time: 0.013 seconds saving, 0.001 seconds loading
-mkiv lua stats  > callbacks: 1241 direct, 845 indirect, 2086 total
+mkiv lua stats  > jobdata time: 0.002 seconds saving, 0.001 seconds loading
+mkiv lua stats  > callbacks: 1269 direct, 849 indirect, 2118 total
 mkiv lua stats  > randomizer: resumed with value 0.98254495439238
-mkiv lua stats  > interactive elements: 27 references, 17 destinations
+mkiv lua stats  > interactive elements: 28 references, 18 destinations
 mkiv lua stats  > result saved in file: web/index.pdf.pdf, compresslevel 3, objectcompresslevel 3
 mkiv lua stats  > loaded fonts: 1 files: latinmodern-math.otf
-mkiv lua stats  > fonts load time: 1.724 seconds 
-mkiv lua stats  > pdf annotations: 27 links (27 unique), 0 special
+mkiv lua stats  > fonts load time: 1.624 seconds 
+mkiv lua stats  > pdf annotations: 28 links (28 unique), 0 special
 mkiv lua stats  > used platform: linux-64, type: unix, binary subtree: usr
 mkiv lua stats  > luatex banner: this is luatex, version beta-0.80.0 (tex live 2015/debian) (rev 5238)
 mkiv lua stats  > control sequences: 43436 of 65536 + 100000
-mkiv lua stats  > lua properties: engine: lua, used memory: 86 MB (ctx: 86 MB), hash type: lua, hash chars: min(64,40), symbol mask: utf (τεχ)
-mkiv lua stats  > runtime: 2.088 seconds, 3 processed pages, 3 shipped pages, 1.437 pages/second
+mkiv lua stats  > lua properties: engine: lua, used memory: 96 MB (ctx: 96 MB), hash type: lua, hash chars: min(64,40), symbol mask: utf (τεχ)
+mkiv lua stats  > runtime: 1.965 seconds, 3 processed pages, 3 shipped pages, 1.527 pages/second
 
 mtx-context     | run 2: luatex --fmt="/var/lib/texmf/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/formats/luatex/cont-en" --jobname="index" --lua="/var/lib/texmf/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/formats/luatex/cont-en.lui" --no-parse-first-line --c:currentrun=2 --c:fulljobname="web/index.tex" --c:input="web/index.tex" --c:kindofrun=2 --c:maxnofruns=9 --c:result="web/index.pdf" "cont-yes.mkiv"
 This is LuaTeX, Version beta-0.80.0 (TeX Live 2015/Debian) (rev 5238) 
  \write18 enabled.
 open source     > 1 > 1 > /usr/share/texmf/tex/context/base/cont-yes.mkiv
 
-ConTeXt  ver: 2015.05.18 12:26 MKIV current  fmt: 2019.2.10  int: english/english
+ConTeXt  ver: 2015.05.18 12:26 MKIV current  fmt: 2019.2.20  int: english/english
 
 system          > 'cont-new.mkiv' loaded
 open source     > 2 > 2 > /usr/share/texmf/tex/context/base/cont-new.mkiv
@@ -755,6 +770,22 @@ fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-
 fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
 fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
 fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bolditalic' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bolditalic', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bolditalic' as 'helvetica-11pt-ss-bs-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bolditalic' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bolditalic', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bolditalic' as 'helvetica-11pt-ss-bs-0--0'
+fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
+fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
+fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0--0'
+pages           > flushing realpage 2, userpage 2
 structure       > sectioning > subsection @ level 4 : 0.0.1.7 -> Grands, Awards, Languages, and Living Abroad
 fonts           > defining > font with asked name 'texgyreheros-regular' is not found using lookup 'file'
 fonts           > defining > unknown font 'texgyreheros-regular', loading aborted
@@ -762,35 +793,34 @@ fonts           > defining > unable to define 'texgyreheros-regular' as 'helveti
 fonts           > defining > font with asked name 'texgyreheros-bold' is not found using lookup 'file'
 fonts           > defining > unknown font 'texgyreheros-bold', loading aborted
 fonts           > defining > unable to define 'texgyreheros-bold' as 'helvetica-11pt-ss-bf-0-b-0'
-pages           > flushing realpage 2, userpage 2
 pages           > flushing realpage 3, userpage 3
 close source    > 2 > 4 > web/index.tex
 close source    > 1 > 4 > /usr/share/texmf/tex/context/base/cont-yes.mkiv
 
 mkiv lua stats  > used config file: /usr/share/texmf/web2c/texmfcnf.lua;/usr/share/texlive/texmf-dist/web2c/texmfcnf.lua
 mkiv lua stats  > used cache path: readable: '/var/lib/texmf/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442' | readable+writable: '/home/travis/.texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442'
-mkiv lua stats  > resource resolver: loadtime 0.017 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 9 found files, scanned paths: <none>
-mkiv lua stats  > stored bytecode data: 371 modules (0.223 sec), 78 tables (0.008 sec), 449 chunks (0.231 sec)
+mkiv lua stats  > resource resolver: loadtime 0.012 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 9 found files, scanned paths: <none>
+mkiv lua stats  > stored bytecode data: 371 modules (0.212 sec), 78 tables (0.008 sec), 449 chunks (0.220 sec)
 mkiv lua stats  > traced context: maxstack: 1153, freed: 21, unreachable: 1132
 mkiv lua stats  > running in nuts mode: yes
 mkiv lua stats  > cleaned up reserved nodes: 53 nodes, 439 lists of 438
 mkiv lua stats  > node memory usage: 2 glue, 2 penalty, 12 attribute, 53 glue_spec, 3 attribute_list, 2 temp
-mkiv lua stats  > node list callback tasks: 6 unique task lists, 6 instances (re)created, 660 calls
+mkiv lua stats  > node list callback tasks: 6 unique task lists, 6 instances (re)created, 675 calls
 mkiv lua stats  > used backend: pdf (backend for directly generating pdf output)
 mkiv lua stats  > loaded patterns: en::2, load time: 0.000
 mkiv lua stats  > jobdata time: 0.002 seconds saving, 0.001 seconds loading
-mkiv lua stats  > callbacks: 1241 direct, 845 indirect, 2086 total
+mkiv lua stats  > callbacks: 1269 direct, 849 indirect, 2118 total
 mkiv lua stats  > randomizer: resumed with value 0.98254495439238
-mkiv lua stats  > interactive elements: 27 references, 17 destinations
+mkiv lua stats  > interactive elements: 28 references, 18 destinations
 mkiv lua stats  > result saved in file: web/index.pdf.pdf, compresslevel 3, objectcompresslevel 3
 mkiv lua stats  > loaded fonts: 1 files: latinmodern-math.otf
-mkiv lua stats  > fonts load time: 0.185 seconds 
-mkiv lua stats  > pdf annotations: 27 links (27 unique), 0 special
+mkiv lua stats  > fonts load time: 0.182 seconds 
+mkiv lua stats  > pdf annotations: 28 links (28 unique), 0 special
 mkiv lua stats  > used platform: linux-64, type: unix, binary subtree: usr
 mkiv lua stats  > luatex banner: this is luatex, version beta-0.80.0 (tex live 2015/debian) (rev 5238)
 mkiv lua stats  > control sequences: 43435 of 65536 + 100000
-mkiv lua stats  > lua properties: engine: lua, used memory: 67 MB (ctx: 67 MB), hash type: lua, hash chars: min(64,40), symbol mask: utf (τεχ)
-mkiv lua stats  > runtime: 0.542 seconds, 3 processed pages, 3 shipped pages, 5.535 pages/second
+mkiv lua stats  > lua properties: engine: lua, used memory: 66 MB (ctx: 65 MB), hash type: lua, hash chars: min(64,40), symbol mask: utf (τεχ)
+mkiv lua stats  > runtime: 0.526 seconds, 3 processed pages, 3 shipped pages, 5.703 pages/second
 
 mtx-context     | result renamed to: web/index
-system          | total runtime: 3.102 seconds
+system          | total runtime: 2.952 seconds

@@ -338,11 +338,23 @@ utilitydata.structures.lists.collected={
   },
  },
  {
+  ["metadata"]=7,
+  ["references"]={
+   ["internal"]=17,
+   ["order"]=10,
+   ["realpage"]=3,
+   ["section"]=7,
+  },
+  ["titledata"]={
+   ["title"]="{\\em Certificates}",
+  },
+ },
+ {
   ["metadata"]=4,
   ["numberdata"]=19,
   ["references"]={
    ["block"]="bodypart",
-   ["internal"]=17,
+   ["internal"]=18,
    ["realpage"]=3,
    ["reference"]="grands-awards-languages-and-living-abroad",
    ["section"]=8,
@@ -393,6 +405,7 @@ if not utilitydata.structures.references then utilitydata.structures.references 
 utilitydata.structures.references.referred={
  { 1, 1 },
  { 2, 10 },
+ { 3, 27 },
 }
 
 if not utilitydata.job then utilitydata.job = { } end
